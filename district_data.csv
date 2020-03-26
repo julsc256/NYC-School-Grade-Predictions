@@ -1,0 +1,1515 @@
+,School Name,Enrollment,Student-Teacher Ratio,Free-Reduced Lunch,DISTRICT
+0,Lower East Side Preparatory High School,500,15.6,76.8%,1
+1,East Side Community School,678,13.8,65.3%,1
+2,Marta Valle High School,149,12.4,93.3%,1
+3,Ps 15 Roberto Clemente,191,9.5,84.8%,1
+4,Ps 19 Asher Levy,258,7.1,76.7%,1
+5,Ps 20 Anna Silver,494,13.7,72.7%,1
+6,Ps 34 Franklin D Roosevelt,326,9.8,97.9%,1
+7,Star Academy Ps 63 (The),201,11.1,82.6%,1
+8,Ps 110 Florence Nightingale,379,14.5,61.5%,1
+9,Ps 134 Henrietta Szold,293,9.1,91.1%,1
+10,Ps 140 Nathan Straus,371,11.9,87.6%,1
+11,Ps 142 Amalia Castro,344,9.8,97.4%,1
+12,Cascades High School,217,15.4,82.9%,1
+13,Ps 184 Shuang Wen,682,13.3,67.9%,1
+14,University Neighborhood High School,472,17.2,88.8%,1
+15,Ps 64 Robert Simon,243,10.5,92.2%,1
+16,Ps 188 Island School (The),431,11.6,91.6%,1
+17,New Explorations Into Sciencetech And Math High School,1729,18.7,23.5%,1
+18,Orchard Collegiate Academy,173,9.6,91.3%,1
+19,East Village Community School (The),314,13.0,26.1%,1
+20,University Neighborhood Middle School,201,9.1,88.1%,1
+21,Children's Workshop School (The),318,16.7,45.3%,1
+22,Neighborhood School,303,13.7,43.9%,1
+23,Earth School,349,12.0,52.4%,1
+24,Tompkins Square Middle School,376,12.9,69.1%,1
+25,Bard High School Early College,589,17.3,43.5%,1
+26,School For Global Leaders,259,9.1,80.7%,1
+27,Forsythe Satellite Academy,189,12.9,86.2%,1
+28,High School For Environmental Studies,"1,201",17.4,81.1%,2
+29,Landmark High School,349,13.9,87.7%,2
+30,Manhattan Village Academy,455,16.8,77.6%,2
+31,Vanguard High School,451,14.0,80.7%,2
+32,Manhattan International High School,335,15.7,84.8%,2
+33,Unity Center For Urban Technologies,250,19.2,90.8%,2
+34,Liberty High School Academy For Newcomers,391,14.4,79.8%,2
+35,High School 560 City-As-School,540,17.4,64.4%,2
+36,Satellite Academy High School,291,22.3,75.9%,2
+37,High School For Health Professions & Human Services,"1,817",19.1,73.4%,2
+38,Leadership & Public Service High School,521,14.8,81.8%,2
+39,High School Of Economics & Finance,744,18.1,81%,2
+40,Ps 290 Manhattan New School,628,14.9,11.6%,2
+41,Talent Unlimited High School,480,14.5,55%,2
+42,Jacqueline Kennedy-Onassis High School,564,15.2,79.8%,2
+43,Repertory Company High School For Theatre Arts,242,15.1,69.4%,2
+44,Institute For Collaborative Education,491,19.6,25.5%,2
+45,Professional Performing Arts High School,562,19.3,37.2%,2
+46,Art And Design High School,"1,445",16.4,63.2%,2
+47,Chelsea Career And Technical Education High School,432,14.4,88.2%,2
+48,High School Of Fashion Industries (The),"1,601",15.8,83.1%,2
+49,Murry Bergtraum High School For Business Careers,264,10.9,77.3%,2
+50,Ps 1 Alfred E Smith,318,9.6,78.9%,2
+51,Ps 2 Meyer London,550,11.2,96.5%,2
+52,Ps 3 Charrette School,753,15.0,21.4%,2
+53,Ps 6 Lillie D Blake,688,17.1,11.3%,2
+54,Ps 11 William T Harris,920,15.8,29.5%,2
+55,Ps 33 Chelsea Prep,628,16.0,46.3%,2
+56,Ps 40 Augustus Saint-Gaudens,679,16.5,9.6%,2
+57,Ps 41 Greenwich Village,692,15.0,9%,2
+58,Ps 42 Benjamin Altman,655,14.2,75.6%,2
+59,Ps 51 Elias Howe,457,14.7,59.1%,2
+60,Ps 59 Beekman Hill International,611,16.0,9.3%,2
+61,Ps 111 Adolph S Ochs,390,11.4,61.3%,2
+62,Ps 116 Mary Lindley Murray,545,13.6,34.9%,2
+63,Ps 124 Yung Wing,725,15.1,55%,2
+64,Ps 126 Jacob August Riis,783,13.7,79.7%,2
+65,Ps 130 Hernando De Soto,912,16.2,47.9%,2
+66,Ps 150,188,15.6,11.7%,2
+67,Ps 158 Bayard Taylor,787,17.0,11.8%,2
+68,Junior High School 167 Robert F Wagner,"1,335",15.8,30.8%,2
+69,Ps 183 Robert L Stevenson,589,15.4,11.2%,2
+70,Ps 198 Isador E Ida Straus,461,12.8,38%,2
+71,Baruch College Campus High School,459,15.8,42%,2
+72,Nyc Lab High School For Collaborative Studies,496,13.0,29.4%,2
+73,School Of The Future High School,744,15.1,38.7%,2
+74,Nyc Museum School,448,18.6,66.3%,2
+75,Stuyvesant High School,"3,334",21.7,45.6%,2
+76,Humanities Preparatory Academy,233,13.6,82%,2
+77,Ps 89,432,14.4,19.7%,2
+78,Is 289,283,15.7,50.5%,2
+79,Ella Baker School,321,15.2,33.6%,2
+80,Ps 77 Lower Lab School,357,22.3,5.6%,2
+81,Urban Academy Laboratory High School,162,11.5,59.3%,2
+82,Life Sciences Secondary School,573,13.6,81.8%,2
+83,Ps 234 Independence School,642,14.5,9.8%,2
+84,Middle School 131,431,11.9,93.3%,2
+85,East Side Middle School,449,14.9,11.1%,2
+86,Ps/Is 217 Roosevelt Island,621,14.7,34.3%,2
+87,Ps 212 Midtown West,368,20.4,22.3%,2
+88,Middle School 255 Salk School Of Science,387,15.8,10.6%,2
+89,Clinton School (The),605,14.7,14%,2
+90,Junior High School 104 Simon Baruch,"1,139",16.5,44.4%,2
+91,American Sign Language & English Secondary School,170,10.3,88.8%,2
+92,Richard R Green High School Of Teaching,502,14.7,84.3%,2
+93,Manhattan Comprehensive Night And Day High School,587,15.4,92.8%,2
+94,Eleanor Roosevelt High School,538,17.4,21.9%,2
+95,Millennium High School,668,17.5,46.7%,2
+96,Ballet Technical/Nyc Public School For Dance,139,15.4,56.1%,2
+97,New Design High School,420,10.7,80.2%,2
+98,Manhattan Bridges High School,513,17.6,82.8%,2
+99,Harvey Milk High School,62,6.1,90.3%,2
+100,High School For Dual Language And Asian Studies,396,16.4,88.1%,2
+101,Nyc Lab Middle School For Collaborative Studies,554,17.3,38.6%,2
+102,Urban Assembly New York Harbor School,532,14.7,53.8%,2
+103,Independence High School,302,17.7,91.7%,2
+104,Food And Finance High School,383,13.6,88.3%,2
+105,Essex Street Academy,338,13.1,69.5%,2
+106,High School Of Hospitality Management,387,14.8,92.5%,2
+107,Pace High School,535,14.4,79.6%,2
+108,Urban Assembly School Of Design And Construction,353,14.6,85.3%,2
+109,Urban Assembly School Of Business For Young Women,238,14.8,82.8%,2
+110,47 American Sign Language And English Lower School (The),195,4.7,61.5%,2
+111,Lower Manhattan Community Middle School,383,12.3,58.5%,2
+112,Facing History School (The),331,12.7,81.1%,2
+113,Urban Assembly Academy Of Government And Law,311,14.1,85.2%,2
+114,Lower Manhattan Arts Academy,329,13.1,75.1%,2
+115,James Baldwin School-A School For Expeditionary Lrning,239,12.5,81.2%,2
+116,Nyc Ischool,458,14.7,39.7%,2
+117,Gramercy Arts High School,493,14.9,82.2%,2
+118,High School For Language And Diplomacy (The),328,13.1,78.7%,2
+119,Manhattan Business Academy,422,15.0,91%,2
+120,Quest To Learn,579,12.3,67.4%,2
+121,Business Of Sports School,432,11.8,73.4%,2
+122,Spruce Street School,539,14.1,13.4%,2
+123,Battery Park City School,822,13.4,12.7%,2
+124,Yorkville Community School,513,12.5,41.9%,2
+125,Emma Lazarus High School,276,14.5,95.3%,2
+126,Manhattan Academy For Arts And Languages,266,12.2,95.5%,2
+127,International High School At Union Square,349,12.4,82.2%,2
+128,Hudson High School Of Learning Technologies,473,14.5,84.4%,2
+129,Murray Hill Academy,317,12.6,83.6%,2
+130,East Side Elementray School-Ps 267,397,13.6,10.3%,2
+131,Urban Assembly Gateway School For Technology,444,13.4,57.7%,2
+132,Ps 527 East Side School For Social Action,384,13.7,16.1%,2
+133,Union Square Academy For Health Sciences,397,13.2,83.6%,2
+134,Peck Slip School (The),438,12.5,9.1%,2
+135,Harvest Collegiate High School,494,13.0,64.6%,2
+136,Academy For Software Engineering,456,13.1,69.3%,2
+137,River School (The),273,12.4,27.5%,2
+138,Urban Assembly School For Emergency Management (The),279,12.1,81%,2
+139,Stephen T Mather Building Arts And Craftmanship High School,401,11.1,84.5%,2
+140,Yorkville East Middle School,233,11.6,34.3%,2
+141,City Knoll Middle School,237,12.4,74.3%,2
+142,Urban Assembly Maker Academy,389,13.8,75.1%,2
+143,Manhattan Early College School For Advertising,368,12.2,80.2%,2
+144,Sixth Avenue Elementary School,278,13.9,9%,2
+145,Middle School 297,193,14.8,30.1%,2
+146,Judith S Kaye High School,56,9.3,83.9%,2
+147,Beacon High School,"1,380",22.5,25.3%,3
+148,Edward A Reynolds West Side High School,408,12.4,98%,3
+149,Wadleigh Perf And Visual Arts,273,8.2,81.7%,3
+150,Ps 9 Sarah Anderson,618,15.8,20.9%,3
+151,Junior High School 54 Booker T Washington,851,17.3,23.9%,3
+152,Ps 75 Emily Dickinson,562,7.4,73.3%,3
+153,Ps 76 A Phillip Randolph,454,15.6,96.5%,3
+154,Ps 84 Lillian Weber,648,12.9,41%,3
+155,Ps 87 William Sherman,881,13.9,11.7%,3
+156,Ps 145 Bloomingdale School (The),381,10.5,80.6%,3
+157,Ps 149 Sojourner Truth,303,6.3,97.5%,3
+158,Ps 163 Alfred E Smith,563,13.0,48%,3
+159,Ps 165 Robert E Simon,600,11.7,71.3%,3
+160,Ps 166 Richard Rogers School Of The Arts & Science (The),649,15.4,20.2%,3
+161,Locke School Of Arts And Engineering (The),245,11.1,84.1%,3
+162,Riverside School For Makers And Artists (The),520,11.0,73.7%,3
+163,Ps 199 Jessie Isador Straus,851,15.4,10.3%,3
+164,Stem Institute Of Manhattan,133,8.3,91.7%,3
+165,Ps 242 Young Diplomats Magnet Academy (The),171,9.5,88.3%,3
+166,Middle School 243 Center School,235,15.6,12.3%,3
+167,Middle School 245 Computer School (The),400,14.8,27.8%,3
+168,Middle School 247 Dual Language Middle School,198,9.9,92.9%,3
+169,Middle School 250 West Side Collaborative Middle School,180,10.5,71.7%,3
+170,Lafayette Academy,140,8.2,85.7%,3
+171,Community Action School-Middle School 258,222,10.0,76.6%,3
+172,Ps 333 Manhattan School For Children,755,15.0,18%,3
+173,Fiorello H Laguardia High School,"2,819",19.9,29%,3
+174,High School For Law Advocacy And Community Justice,462,13.5,88.7%,3
+175,High School Of Arts And Technology,504,15.7,83.9%,3
+176,Manhattan/Hunter Science High School,441,17.6,61.5%,3
+177,Ps 180 Hugo Newman,548,11.9,71.9%,3
+178,Frederick Douglass Academy II Secondary School,355,12.2,81.1%,3
+179,Mott Hall II,341,17.9,61.6%,3
+180,Urban Assembly School For Media Studies,401,14.8,85.8%,3
+181,Anderson School (The),539,19.2,8.3%,3
+182,Maxine Greene High School For Imaginative Inquiry (The),361,11.6,82%,3
+183,Special Music School,313,13.0,21.4%,3
+184,West Prep Academy,201,11.8,86.1%,3
+185,Innovation Diploma Plus,185,14.2,81.1%,3
+186,Global Learning Collaborative (The),435,14.9,81.6%,3
+187,Urban Assembly School For Green Careers (The),307,10.5,86%,3
+188,Frank McCourt High School,410,15.7,55.6%,3
+189,Ps 452,329,12.6,22.2%,3
+190,West End Secondary School,339,13.5,18.9%,3
+191,Park East High School,400,13.3,84.5%,4
+192,Central Park East High School,493,17.0,83.2%,4
+193,Ps 7 Samuel Stern,356,11.4,91%,4
+194,Ps 38 Roberto Clemente,217,12.7,92.6%,4
+195,James Weldon Johnson School,803,12.3,88.8%,4
+196,Lexington Academy (The),615,11.3,91.1%,4
+197,Bilingual Bicultural School (The),312,11.1,97.4%,4
+198,Ps 96 Joseph Lanzetta,398,11.0,93.5%,4
+199,Ps 102 Jacques Cartier,314,10.4,81.5%,4
+200,Ps 108 Assemblyman Angelo Del Toro Educational Complex,448,10.9,89.3%,4
+201,Ps 112 Jose Celso Barbosa,303,6.3,81.2%,4
+202,Ps 146 Ann M Short,334,10.7,97.9%,4
+203,Ps 155 William Paca,260,11.8,97.7%,4
+204,Ps 171 Patrick Henry,722,16.0,69.3%,4
+205,Ps 206 Jose Celso Barbosa,465,6.4,84.3%,4
+206,Young Women's Leadership School,483,15.8,80.7%,4
+207,Heritage School (The),297,14.3,92.3%,4
+208,Middle School 224 Manhattan East School For Arts & Academics,174,13.3,74.1%,4
+209,Manhattan Center For Science & Mathematics,"1,627",20.8,85.2%,4
+210,Ps 83 Luis Munoz Rivera,433,13.9,89.4%,4
+211,Tag Young Scholars,576,23.9,41%,4
+212,River East Elementary,189,9.4,87.3%,4
+213,Central Park East I,200,14.2,42%,4
+214,Isaac Newton Middle Sschool For Math And Science,192,11.9,91.1%,4
+215,Central Park East II,445,13.4,42.5%,4
+216,Mosaic Preparatory Academy,328,12.1,93.9%,4
+217,Esperanza Preparatory Academy,564,11.5,92.2%,4
+218,Renaissance School Of The Arts,146,9.7,93.8%,4
+219,Frederick Douglass Academy,"1,360",18.2,76.4%,5
+220,Ps 30 Hernandez/Hughes,250,6.9,94%,5
+221,Ps 36 Margaret Douglas,395,9.6,88.1%,5
+222,Ps 154 Harriet Tubman,293,12.7,98.3%,5
+223,Ps 46 Arthur Tappan,663,11.8,94%,5
+224,Ps 123 Mahalia Jackson,477,10.6,95.4%,5
+225,Ps 125 Ralph Bunche,299,14.2,67.9%,5
+226,Ps 129 John H Finley,439,11.2,92.7%,5
+227,Ps 133 Fred R Moore,212,9.2,93.4%,5
+228,Ps 161 Pedro Albizu Campos,827,12.3,96.6%,5
+229,Ps 194 Countee Cullen,231,10.9,97%,5
+230,Ps 197 John B Russwurm,307,11.8,93.5%,5
+231,Ps 200 James McCune Smith School (The),390,10.2,91.3%,5
+232,Urban Assembly Academy For Future Leaders,167,12.8,91%,5
+233,Ps 175 Henry H Garnet,319,12.2,95.9%,5
+234,Thurgood Marshall Academy For Learning & Social Change,534,14.8,74.3%,5
+235,High School Mathematics Science And Engineering At Ccny,500,17.0,44.4%,5
+236,Ps 92 Mary McLeod Bethune,263,10.5,98.9%,5
+237,Mott Hall High School,299,16.6,93%,5
+238,Harlem Renaissance High School,222,13.8,87.4%,5
+239,Thurgood Marshall Academy Lower School,222,13.0,86%,5
+240,Urban Assembly School For The Performing Arts,362,15.0,89.8%,5
+241,Columbia Secondary School,703,14.9,54.3%,5
+242,Teachers College Community School,285,14.9,47%,5
+243,New Design Middle School,128,8.5,91.4%,5
+244,Eagle Academy For Young Men Of Harlem,320,10.3,75.9%,5
+245,Urban Assembly School For Global Commerce (The),244,10.6,81.1%,5
+246,Ps 5 Ellen Lurie,593,13.4,85%,6
+247,Ps 18 Park Terrace,349,12.2,92.6%,6
+248,Ps 48 PO Michael J Buczek,547,10.1,94.9%,6
+249,Is 528 Bea Fuller Rodgers School,226,13.9,96%,6
+250,Gregorio Luperon High School For Science And Mathematics,522,19.3,98.9%,6
+251,Ps 4 Duke Ellington,560,13.6,84.6%,6
+252,Ps 8 Luis Belliard,527,11.9,96.8%,6
+253,Ps 28 Wright Brothers,668,11.9,92.8%,6
+254,Ps 98 Shorac Kappock,461,11.8,90.2%,6
+255,Ps 115 Alexander Humboldt,477,13.2,96.4%,6
+256,Ps 128 Audubon,585,13.0,92.5%,6
+257,Ps 132 Juan Pablo Duarte,303,9.4,87.1%,6
+258,Junior High School 143 Eleanor Roosevelt,263,10.1,89%,6
+259,Ps 152 Dyckman Valley,574,12.7,97.4%,6
+260,Ps 153 Adam Clayton Powell,590,14.3,92%,6
+261,Ps 173,484,13.4,89.9%,6
+262,Ps/Is 187 Hudson Cliffs,794,15.5,42.7%,6
+263,Ps 189,810,13.6,92.6%,6
+264,Ps 192 Jacob H Schiff,442,11.9,94.1%,6
+265,Ps/Is 210 21st Century Academy,421,13.1,91.7%,6
+266,College Academy (The),447,17.8,97.3%,6
+267,High School For Media & Communications,404,18.1,95.5%,6
+268,High School For Law & Public Service,540,15.4,89.1%,6
+269,High School For Health Careers & Sciences,461,12.4,96.7%,6
+270,A Philip Randolph Campus High School,"1,379",17.9,85.9%,6
+271,Harold O Levy School,268,11.1,97.4%,6
+272,Mott Hall School (The),292,13.2,80.8%,6
+273,Professor Juan Bosch Public School,296,10.5,73.6%,6
+274,Paula Hedbavny School,558,16.9,67.4%,6
+275,Amistad Dual Language School,391,13.9,80.6%,6
+276,Muscota,292,13.2,26.4%,6
+277,Middle School 319 Marie Teresa,421,14.0,98.8%,6
+278,Middle School 324 Patria Mirabal,392,11.1,91.1%,6
+279,Community Math And Science Prep,223,10.1,98.7%,6
+280,Middle School 322,302,10.7,95%,6
+281,City College Academy Of The Arts,600,15.0,83%,6
+282,Harbor Heights,129,12.9,100%,6
+283,Community Health Academy Of The Heights,690,14.0,93.6%,6
+284,Washington Heights Expeditionary Learning School,820,12.8,76.2%,6
+285,Hamilton Heights School,171,10.6,70.8%,6
+286,Washington Heights Academy,575,16.9,90.3%,6
+287,High School For Excellence And Innovation,194,10.2,93.8%,6
+288,Castle Bridge School,228,10.8,65.8%,6
+289,Dos Puentes Elementary School,350,12.2,69.7%,6
+290,Inwood Early College For Health And Information Technologies,371,13.4,95.7%,6
+291,Hamilton Grange Middle School,267,11.6,92.9%,6
+292,University Heights Secondary School-Bronx Community College,486,20.2,87.2%,7
+293,Hostos-Lincoln Academy Of Science,504,15.2,85.9%,7
+294,Health Opportunities High School,495,15.9,85.7%,7
+295,Alfred E Smith Career And Technical Education High School,461,12.7,93.3%,7
+296,Junior High School 151 Lou Gehrig,254,12.6,98.8%,7
+297,Ps 1 Courtlandt School,665,16.2,98.3%,7
+298,Ps 5 Port Morris,719,13.5,95.7%,7
+299,Ps 18 John Peter Zenger,598,12.4,97.8%,7
+300,Ps 25 Bilingual School,533,12.6,94.9%,7
+301,Ps/Middle School 29 Melrose School,788,12.7,92.8%,7
+302,Ps 30 Wilton,553,13.1,91.7%,7
+303,Ps/Middle School 31 William Lloyd Garrison (The),698,13.4,91.1%,7
+304,Ps 43 Jonas Bronck,478,10.6,94.8%,7
+305,Ps 49 Willis Avenue,660,10.9,97%,7
+306,Ps 65 Mother Hale Academy,393,11.5,98%,7
+307,Ps 154 Jonathan D Hyatt,370,10.8,97.8%,7
+308,Ps 161 Juan Ponce De Leon School,519,12.9,95.8%,7
+309,Ps 277,484,12.0,92.8%,7
+310,Ps 179,329,11.3,96.7%,7
+311,Community School For Social Justice,339,14.7,92%,7
+312,Mott Haven Village Preparatory High School,354,12.2,92.7%,7
+313,Bronx Leadership Academy II High School,506,13.2,95.5%,7
+314,Urban Assembly Bronx Academy Of Letters (The),595,10.4,90.4%,7
+315,Careers In Sports High School,504,13.2,88.9%,7
+316,Ps/Is 224,358,12.7,98.9%,7
+317,Laboratory School Of Finance And Technology (The): X223,685,13.7,97.4%,7
+318,Ps 157 Grove Hill,646,11.5,96%,7
+319,South Bronx Preparatory - A College Board School,661,13.2,97%,7
+320,South Bronx Academy For Applied Media,249,10.8,93.2%,7
+321,Academy Of Public Relations,248,11.2,91.1%,7
+322,International Community High School,384,14.2,96.6%,7
+323,Academy Of Applied Mathematics And Technology,301,15.0,96.3%,7
+324,Jill Chaifetz Transfer High School,189,12.6,85.2%,7
+325,Young Leaders Elementary School,264,10.5,97.7%,7
+326,Bronx Haven High School,177,12.6,86.4%,7
+327,Bronx Design And Construction Academy,490,12.2,83.1%,7
+328,Mott Haven Community High School,231,15.4,83.1%,7
+329,Concourse Village Elementary School,350,11.6,89.1%,7
+330,Hero High School,487,14.3,83.4%,7
+331,Is 584,279,12.1,97.5%,7
+332,Herbert H Lehman High School,725,12.0,81%,8
+333,Junior High School 131 Albert Einstein,454,12.2,84.8%,8
+334,Ps 14 Senator John Calandra,548,14.0,67.9%,8
+335,Ps 36 Unionport,759,13.7,78%,8
+336,Ps 48 Joseph R Drake,696,11.9,93%,8
+337,Ps 62 Inocensio Casanova,699,14.2,98.4%,8
+338,Ps 69 Journey Prep School,609,14.1,88.5%,8
+339,Ps 71 Rose E Scala,"1,647",14.5,73.3%,8
+340,Ps 72 Dr William Dorney,832,12.6,86.8%,8
+341,Ps 75 School Of Research And Discovery,626,14.2,90.3%,8
+342,Ps 93 Albert G Oliver,341,11.3,73.9%,8
+343,Ps 100 Isaac Clason,576,12.7,82.1%,8
+344,Ps 107,515,14.3,99%,8
+345,Dr Emmett W Bassett School (The),888,14.7,83%,8
+346,Junior High School 123 James M Kiernan,352,10.6,87.8%,8
+347,Ps 130 Abram Stevens Hewitt,496,12.7,86.3%,8
+348,Ps 138 Samuel Randall,711,14.5,89.9%,8
+349,Ps 140 Eagle School (The),635,13.2,92.3%,8
+350,Ps 146 Edward Collins,405,13.5,97.8%,8
+351,Ps 152 Evergreen,816,12.5,91.4%,8
+352,Ps 182,875,14.3,85.3%,8
+353,Longwood Preparatory Academy,205,9.3,89.8%,8
+354,Middle School 101 Edward R Byrne,529,13.5,74.5%,8
+355,Middle School 301 Paul L Dunbar,244,11.0,95.1%,8
+356,Middle School 302 Luisa Dessus Cruz,481,13.3,94.4%,8
+357,Ps 304 Early Childhood School,506,14.0,65.2%,8
+358,Gotham Collaborative High School,551,10.9,86.6%,8
+359,Bronx Studio School For Writers And Artists,644,13.4,85.4%,8
+360,Women's Academy Of Excellence,276,13.1,93.1%,8
+361,Millenium Art Academy,427,13.7,74%,8
+362,Longwood Academy For Discovery (The),635,11.7,96.7%,8
+363,School For Inquiry And Social Justice (The),523,14.5,80.3%,8
+364,Renaissance High School For Musical Theater And The Arts,449,16.3,71.3%,8
+365,Urban Institute Of Mathematics,349,15.1,78.2%,8
+366,Bronx Community High School,147,10.5,81.6%,8
+367,Antonia Pantoja Preparatory Academy - A College Board School,396,11.3,82.8%,8
+368,Archimedes Academy-Math Sci Technical,690,13.4,83%,8
+369,Bronx Mathematics Preparatory School (The),233,10.5,99.1%,8
+370,Hunts Point School (The),302,11.6,95.7%,8
+371,Soundview Academy For Culture And Scholarship,388,13.8,79.1%,8
+372,Mott Hall Community School,328,13.6,86.3%,8
+373,Bronx Bridges High School,324,10.7,83%,8
+374,Bronx Arena High School,172,11.4,89%,8
+375,Blueprint Middle School,338,13.0,83.7%,8
+376,Westchester Square Academy,599,16.4,80.5%,8
+377,School For Tourism And Hospitality,291,10.7,90.7%,8
+378,Bronx Compass High School,457,13.4,75.9%,8
+379,Pelham Lab High School,463,13.2,87.9%,8
+380,Schuylerville Preparatory High School,371,13.2,76.8%,8
+381,Bronx River High School,397,12.0,81.4%,8
+382,Bronx Delta School,279,13.9,73.5%,8
+383,Ps 583,38.0%,100.0,87%,8
+384,Ps 170,266,12.6,87.6%,9
+385,Bronx Leadership Academy High School,574,14.0,87.3%,9
+386,Ps 11 Highbridge,595,11.8,93.3%,9
+387,Ps 28 Mount Hope,719,11.9,95.4%,9
+388,Ps 35 Franz Siegel,665,13.5,91%,9
+389,Ps 42 Claremont,430,13.4,99.8%,9
+390,Ps 53 Basheer Quisim,"1,142",12.9,91.3%,9
+391,Ps 55 Benjamin Franklin,637,12.7,97.6%,9
+392,Ps 58,474,12.8,95.4%,9
+393,Ps 114 Luis Llorens Torres School,737,15.0,94.7%,9
+394,Ps 70 Max Schoenfeld,"1,231",14.8,96.7%,9
+395,Ps 73 Bronx,705,15.6,94%,9
+396,Ps 88 S Silverstein Little Sparrow School,146,12.1,92.5%,9
+397,Ps 109 Sedgwick,663,13.5,92.9%,9
+398,Ps 110 Theodore Schoenfeld,458,15.7,96.7%,9
+399,Ps 126 Dr Marjorie H Dunbar,571,12.4,96.8%,9
+400,Ps 132 Garrett A Morgan,371,12.7,94.3%,9
+401,Ps 163 Arthur A Schomberg,476,10.5,99.6%,9
+402,Is 229 Roland Patterson,246,9.1,92.7%,9
+403,Ps 236 Langston Hughes,295,10.5,97.3%,9
+404,Bronx School For Law Government And Justice,767,12.9,90.7%,9
+405,Ps/Is 218 Rafael Hernandez Dual Language Magnet School,"1,012",14.4,87.1%,9
+406,Is 219 New Venture School,353,9.8,94.9%,9
+407,Is 303 Leadership & Community Service,334,10.7,99.4%,9
+408,Is 313 School Of Leadership Development,317,10.9,91.2%,9
+409,Is 339,505,10.3,92.1%,9
+410,Ps 199 Shakespeare School (The),753,14.7,97.3%,9
+411,Junior High School 22 Jordan L Mott,458,10.4,97.4%,9
+412,Ps 204 Morris Heights,628,16.5,85.7%,9
+413,Is 232,486,14.2,98.6%,9
+414,Bronx International High School,401,12.9,95%,9
+415,School For Excellence,372,14.9,85.8%,9
+416,Bronx High School Of Business,288,10.2,88.2%,9
+417,Bronx High School For Medical Science,432,14.8,84%,9
+418,Ps/Middle School 4 Crotona Park West,577,12.2,93.1%,9
+419,Is 117 Joseph H Wade,516,12.0,94.6%,9
+420,High School For Violin And Dance,262,14.5,96.6%,9
+421,Ps 63 Author's Academy,582,12.9,95.4%,9
+422,Mott Hall III,364,15.8,93.1%,9
+423,Bronx Writing Academy,438,11.2,95.2%,9
+424,Comprehensive Model School Project Middle School 327,736,15.6,91.2%,9
+425,New Millennium Business Academy Middle School,247,13.7,86.6%,9
+426,Frederick Douglass Academy III Secondary School,429,14.7,86.9%,9
+427,Bronx Collegiate Academy,394,13.5,85.5%,9
+428,Eagle Academy For Young Men,513,13.9,78.8%,9
+429,Urban Assembly School For Applied Math And Science (The),615,11.3,94.8%,9
+430,Morris Academy For Collaborative Studies,401,11.7,94.5%,9
+431,Kappa,317,13.7,92.7%,9
+432,Eximius College Preparatory Academy: A College Board School,431,14.3,83.8%,9
+433,Mott Hall Bronx High School,378,15.8,92.3%,9
+434,Bronx Center For Science And Mathematics,461,15.3,85.7%,9
+435,Validus Preparatory Academy,367,15.2,88.3%,9
+436,Bronx Early College Academy For Teaching And Learning,525,14.1,88.6%,9
+437,Dreamyard Preparatory School,268,12.1,85.8%,9
+438,Academy For Language And Technology,327,13.0,97.6%,9
+439,Science And Technology Academy: A Mott Hall School,450,11.8,93.6%,9
+440,Grant Avenue Elementary School,439,12.5,95.4%,9
+441,Family School (The),565,13.7,96.3%,9
+442,Sheridan Academy For Young Leaders,477,14.4,96.9%,9
+443,Mount Eden Children's Academy,424,15.1,91.7%,9
+444,Claremont International High School,378,13.4,97.9%,9
+445,Young Women's Leadership School Of The Bronx,462,12.8,87%,9
+446,New American Academy At Roberto Clemente State Park (The),806,14.3,93.9%,9
+447,Walton Avenue School (The),519,12.9,96.5%,9
+448,Lucero Elementary School,411,14.6,98.1%,9
+449,Highbridge Green School (The),397,10.7,97.2%,9
+450,New Directions Secondary School,222,9.5,95%,9
+451,Ps 51 Bronx New School,219,13.6,89.5%,10
+452,Ps 23 New Children's School (The),495,13.0,92.1%,10
+453,Ps 279 Capt Manuel Rivera Junior,"1,087",14.1,94.6%,10
+454,Ps 209,259,11.7,94.6%,10
+455,Ps 37 Multiple Intelligence School,647,15.0,86.1%,10
+456,Ps 291,635,14.1,98.9%,10
+457,Ps 306,695,14.1,89.2%,10
+458,Ps 15 Institute For Environmental Learning,484,14.6,78.7%,10
+459,Bronx High School Of Science (The),"2,997",22.3,45.6%,10
+460,Dewitt Clinton High School,"1,228",13.9,88.7%,10
+461,Milton Fein School,758,15.7,81.9%,10
+462,Ps 8 Issac Varian,"1,005",13.2,87.1%,10
+463,Ps 9 Ryer Avenue Elementary School,845,12.4,92.7%,10
+464,Ps 24 Spuyten Duyvil,907,17.1,26.9%,10
+465,Ps 32 Belmont,827,12.7,98.8%,10
+466,Ps 33 Timothy Dwight,922,12.7,91%,10
+467,Ps/Middle School 20 PO George J Werdan III,"1,069",15.2,94.9%,10
+468,Thomas C Giordano Middle School 45,700,14.0,97.1%,10
+469,Ps 46 Edgar Allan Poe,911,13.8,92%,10
+470,Ps 310 Marble Hill,741,13.4,95.7%,10
+471,Ps 56 Norwood Heights,710,14.4,85.6%,10
+472,Junior High School 80 Mosholu Parkway (The),690,16.0,90.7%,10
+473,Ps 81 Robert J Christen,725,14.4,47.9%,10
+474,Ps 86 Kingsbridge Heights,"1,669",15.3,87.5%,10
+475,Ps 94 Kings College School,"1,263",12.9,93%,10
+476,Ps 95 Sheila Mencher,"1,289",17.0,81.5%,10
+477,Junior High School 118 William W Niles,"1,174",14.1,89.8%,10
+478,Riverdale/Kingsbridge Academy (Ms/High School 141),"1,516",16.4,52.1%,10
+479,Ps 205 Fiorello Laguardia,"1,010",13.8,90%,10
+480,Ps 315 Lab School,247,16.4,97.6%,10
+481,Ps/Is 54,483,14.2,97.5%,10
+482,Is 254,472,13.4,89.2%,10
+483,Ps 340,656,12.8,88%,10
+484,Ps 360,486,13.1,94.2%,10
+485,Middle School 390,538,12.8,98.7%,10
+486,Angelo Patri Middle School (The),523,12.7,92.5%,10
+487,Ps 396,336,5.8,92.9%,10
+488,Is 206 Ann Mersereau,202,13.4,89.6%,10
+489,Ps 159 Luis Mumoz Marin Biling,192,12.8,87%,10
+490,Ps 246 Poe Center,730,13.7,93.8%,10
+491,Ps 207,307,14.6,85.7%,10
+492,Ps/Middle School 280 Mosholu Parkway,887,14.4,95.6%,10
+493,Ps 226,475,12.8,96.4%,10
+494,Ps 3 Raul Julia Micro Society,347,15.0,94.8%,10
+495,Ps 59 Community School Of Technology (The),576,11.5,100%,10
+496,Ps 85 Great Expectations,952,10.5,95.7%,10
+497,Ps 91,730,13.0,94.2%,10
+498,High School For Teaching And The Professions,424,14.1,90.3%,10
+499,Belmont Preparatory High School,400,13.7,88%,10
+500,Fordham High School For The Arts,357,14.2,89.6%,10
+501,Fordham Leadership Academy,336,11.5,84.5%,10
+502,Bronx High School For Law And Community Service,414,13.9,90.8%,10
+503,Luisa Pineiro Fuentes School Of Science And Discovery,388,12.1,86.3%,10
+504,Celia Cruz Bronx High School Of Music (The),426,13.3,87.6%,10
+505,Discovery High School,451,12.8,89.8%,10
+506,Bronx Dance Academy School,269,14.1,92.6%,10
+507,West Bronx Academy For The Future,611,13.3,94.6%,10
+508,Bronx School Of Young Leaders (The),409,14.5,89.2%,10
+509,High School Of American Studies At Lehman College,399,15.9,21.1%,10
+510,Marie Curie High School-Nursing,490,14.2,78.8%,10
+511,Providing Urban Learners Success In Education High School,244,17.4,91%,10
+512,Theatre Arts Production Company School,619,16.7,80.1%,10
+513,Jonas Bronck Academy,268,13.4,90.7%,10
+514,New School For Leadership And Journalism (The),739,14.5,97.3%,10
+515,Kingsbridge International High School,468,18.0,98.7%,10
+516,International School For Liberal Arts,516,12.5,99.2%,10
+517,Knowledge And Power Prep Academy International High School,484,12.4,92.4%,10
+518,Ampark Neighborhood,390,15.5,53.6%,10
+519,School For Environmental Citizenship,597,13.2,99.5%,10
+520,Elementary School For Math Science And Technology,273,13.6,97.1%,10
+521,Creston Academy,459,11.4,92.2%,10
+522,East Fordham Academy For The Arts,277,12.5,94.2%,10
+523,Crotona International High School,329,14.9,84.2%,10
+524,Academy For Personal Leadership And Excellence,552,11.5,94.2%,10
+525,High School For Energy And Technology,406,13.6,82.8%,10
+526,Bronx Academy For Software Engineering (Base),429,12.6,70.9%,10
+527,Bronx Collaborative High School,535,14.0,84.5%,10
+528,World View High School,498,12.7,81.7%,10
+529,Bedford Park Elementary School,355,14.7,85.9%,10
+530,English Language Learners-Inter Supp,333,13.3,94.6%,10
+531,Bronx School Of Law And Finance,373,14.9,86.3%,10
+532,Bronx Theatre High School,386,14.8,86%,10
+533,Bronx Engineering And Technology Academy,409,14.5,91.4%,10
+534,Marble Hill High School Of International Studies,439,15.6,91.3%,10
+535,In-Technical Academy (Ms/High School 368),993,15.7,86.9%,10
+536,Ps 178 Dr Selman Waksman,437,12.4,80.3%,11
+537,Harry S Truman High School,"1,984",17.4,73%,11
+538,Is 181 Pablo Casals,882,14.4,82.1%,11
+539,Ps 16 Wakefield,358,13.2,97.2%,11
+540,Ps 19 Judith K Weiss,511,16.4,59.5%,11
+541,Ps 21 Philip H Sheridan,701,16.2,91.6%,11
+542,Ps 41 Gun Hill Road,921,16.1,98.6%,11
+543,Ps 68,677,11.2,69.4%,11
+544,Ps 76 Bennington School (The),958,14.3,76.6%,11
+545,Ps 78 Anne Hutchinson,823,14.6,84%,11
+546,Ps 83 Donald Hertz,"1,692",15.8,64.6%,11
+547,Ps 87,587,15.8,84.3%,11
+548,Ps 89,"1,550",17.4,78%,11
+549,Ps 96 Richard Rodgers,957,13.0,81.8%,11
+550,Ps 97,659,13.1,79.5%,11
+551,Ps 103 Hector Fontanez,"1,135",13.1,89%,11
+552,Ps 105 Senator Abraham Bernstein,"1,107",13.1,90.9%,11
+553,Ps 106 Parkchester,"1,093",15.8,73.9%,11
+554,Ps 108 Philip J Abinanti,616,14.3,77.9%,11
+555,Ps 111 Seton Falls,681,14.7,91.9%,11
+556,Ps 112 Bronxwood,430,13.4,97.2%,11
+557,Ps 121 Throop,920,14.5,67.6%,11
+558,Junior High School 127 Castle Hill (The),809,15.8,77.8%,11
+559,Junior High School 144 Michelangelo,491,12.9,76.4%,11
+560,Ps 153 Helen Keller,647,14.6,65.2%,11
+561,Ps 160 Walt Disney,405,11.2,71.6%,11
+562,Ps 175 City Island,333,15.1,51.7%,11
+563,Middle School 180 Dr Daniel Hale Williams,967,14.8,75.8%,11
+564,Bronx High School For The Visual Arts,436,13.6,82.3%,11
+565,Pelham Preparatory Academy,496,17.0,72.2%,11
+566,High School For Contemporary Arts,446,19.3,76.9%,11
+567,Ps/Middle School 194,"1,326",15.0,80.9%,11
+568,Bronx Aerospace High School,343,13.1,75.2%,11
+569,Bronx Health Sciences High School,318,18.7,71.4%,11
+570,Bronx High School For Writing And Communication Arts,332,18.4,71.4%,11
+571,Bronx Lab School,390,12.1,83.8%,11
+572,High School Of Computers And Technology,563,17.5,76.9%,11
+573,Collegiate Institute For Math And Science,606,16.8,70.3%,11
+574,Bronx Academy Of Health Careers,392,15.6,80.1%,11
+575,Astor Collegiate Academy,470,15.6,74.3%,11
+576,North Bronx School Of Empowerment,562,14.7,87.2%,11
+577,New World High School,396,16.5,96.7%,11
+578,Bronxwood Preparatory Academy (The),392,15.6,71.2%,11
+579,Academy-Scholarship & Entrepreneurship,383,15.3,80.2%,11
+580,Bronx Green Middle School,395,15.1,93.7%,11
+581,Leaders Of Tomorrow,400,11.7,95.3%,11
+582,Cornerstone Academy For Social Action,377,12.9,88.9%,11
+583,Cornerstone Academy For Social Action Middle School (Casa),267,13.6,83.9%,11
+584,Pelham Academy Of Academics And Community Engagement,323,11.5,88.9%,11
+585,Baychester Academy,399,15.9,85.2%,11
+586,Ps/Middle School 498 Van Nest Academy,641,15.2,75.7%,11
+587,High School For Language And Innovation,363,12.9,98.9%,11
+588,Baychester Middle School,301,13.6,86.4%,11
+589,One World Middle School At Edenwald,334,9.8,85%,11
+590,Bronxdale High School,456,12.6,86.2%,11
+591,Bronx Park Middle School,401,10.5,89%,11
+592,Pelham Gardens Middle School,452,12.9,76.5%,11
+593,Linden Tree Elementary School,399,13.2,76.4%,11
+594,Bronx Alliance Middle School,335,11.5,82.1%,11
+595,Young Voices Academy Of The Bronx,343,14.2,86%,11
+596,Matilda Avenue School (The),124,12.3,84.7%,11
+597,Stem Bridge School (The),163,12.5,87.7%,11
+598,Ps 214,"1,084",15.0,87.5%,12
+599,Bronx Regional High School,200,15.3,84.5%,12
+600,Ps 212,441,13.7,98.2%,12
+601,Fannie Lou Hamer Freedom High School,458,14.3,84.1%,12
+602,Wings Academy,493,15.3,87.8%,12
+603,High School Of World Cultures,432,13.9,98.1%,12
+604,Ps 6 West Farms,534,11.6,98.7%,12
+605,Ps 44 David C Farragut,278,11.1,95.7%,12
+606,Ps 47 John Randolph,"1,072",14.0,96.8%,12
+607,Ps 57 Crescent,510,11.7,88.4%,12
+608,Ps 61 Francisco Oller,285,14.2,97.2%,12
+609,Ps 67 Mohegan School,543,15.0,89.5%,12
+610,Junior High School 98 Herman Ridder,237,13.9,95.4%,12
+611,Middle School 129 Academy For Independent Learning And Leadership,513,12.8,93.8%,12
+612,Ps 134 George F Bristow,649,16.0,93.7%,12
+613,Ps 150 Charles James Fox,867,14.4,94.3%,12
+614,Ps 211,598,13.5,92.5%,12
+615,Ps 195,962,15.7,93.5%,12
+616,Ps 196,935,13.1,90.2%,12
+617,Bronx Little School,291,11.1,91.1%,12
+618,Is 318 Math Science & Technology Through Arts,257,10.7,98.4%,12
+619,Esmt-Is 190,243,12.1,90.9%,12
+620,School Of Performing Arts,304,11.6,96.4%,12
+621,Ps 66 School Of Higher Expectations,661,11.7,89%,12
+622,East Bronx Academy For The Future,664,12.0,91.9%,12
+623,Bronx Latin School,576,11.5,94.6%,12
+624,Frederick Douglass Academy V Middle School,225,17.2,89.3%,12
+625,Knowledge And Power Preparatory Academy III,388,16.1,91.2%,12
+626,Accion Academy,152,13.8,91.4%,12
+627,Explorations Academy High School,349,14.6,93.1%,12
+628,Mott Hall V,684,13.3,86.3%,12
+629,Fannie Lou Hamer Middle School,278,12.6,87.4%,12
+630,School Of Science And Applied Learning (The),611,14.5,89.9%,12
+631,Metropolitan High School (The),398,10.7,95.7%,12
+632,Emolior Academy,255,12.1,91%,12
+633,Pan American International High School At Monroe,470,14.6,100%,12
+634,Urban Scholars Community School,263,9.0,96.6%,12
+635,Cinema School (The),294,13.3,86.1%,12
+636,Bronx Career And College Preparatory High School,238,11.3,89.5%,12
+637,Arturo A Schomburg Satellite Academy Bronx,180,15.0,86.7%,12
+638,Ps 536,430,16.5,94.2%,12
+639,Archer Elementary School,502,14.3,95.8%,12
+640,Bronx Envision Academy,424,14.1,88.9%,12
+641,Metropolitan Soundview High School (The),426,12.1,96.5%,12
+642,Fairmont Neighborhood School,318,11.7,97.5%,12
+643,Samara Community School,207,12.9,95.2%,12
+644,Science Skills Center High School,557,15.5,82.6%,13
+645,Brooklyn International High School,354,15.0,80.8%,13
+646,Brooklyn Technical High School,"5,839",23.8,62.1%,13
+647,George Westinghouse Career & Technical Educational High School,748,16.2,79.9%,13
+648,Ps 3 Bedford Village (The),393,16.3,92.4%,13
+649,Ps 8 Robert Fulton,916,16.0,18.3%,13
+650,Ps 9 Teunis G Bergen,900,15.5,41.4%,13
+651,Ps 11 Purvis J Behan,893,17.8,44.9%,13
+652,Ps 20 Clinton Hill,447,14.9,61.7%,13
+653,Ps 44 Marcus Garvey,138,9.1,96.4%,13
+654,Ps 46 Edward C Blum,280,11.6,89.6%,13
+655,Ps 54 Samuel C Barnes,208,8.5,94.2%,13
+656,Ps 56 Lewis H Latimer,213,11.4,75.6%,13
+657,Ps 67 Charles A Dorsey,211,10.5,99.1%,13
+658,Benjamin Banneker Academy,844,19.6,69.3%,13
+659,Ps 93 William H Prescott,288,14.3,95.1%,13
+660,Dean Street School (The),185,10.8,81.6%,13
+661,Ps 133 William A Butler,781,14.2,36%,13
+662,Ps 256 Benjamin Banneker,223,12.3,97.3%,13
+663,Dr Susan S McKinney Secondary School Of The Arts,370,11.2,91.9%,13
+664,Ps 270 Johann Dekalb,115,8.8,87%,13
+665,Ps 282 Park Slope,736,13.8,54.6%,13
+666,Ps 287 Bailey K Ashford,175,9.6,93.1%,13
+667,Ps 305 Dr Peter Ray,137,11.4,97.1%,13
+668,Ps 307 Daniel Hale Williams,365,9.3,78.4%,13
+669,Middle School 266 Park Place Community Middle School,161,10.7,86.3%,13
+670,Middle School 113 Ronald Edmonds Learning Center,305,12.2,92.1%,13
+671,Bedford Academy High School,368,16.7,73.4%,13
+672,Brooklyn Academy High School,140,11.6,83.6%,13
+673,Satellite East Middle School,106,11.7,94.3%,13
+674,Dock Street School For Stem Studies,200,10.5,72.5%,13
+675,Urban Assembly School For Law And Justice (The),450,14.5,77.1%,13
+676,Urban Assembly School For Music And Art,215,15.3,86.5%,13
+677,Academy Of Arts And Letters,516,15.1,29.7%,13
+678,Urban Assembly Institute Of Math And Science For Young Women,478,14.0,85.1%,13
+679,Brooklyn Community Arts And Media High School (Bcam),429,15.8,88.6%,13
+680,Brooklyn High School For Leadership And Community Service,179,13.7,82.1%,13
+681,City Polytechnic High School,439,15.6,76.8%,13
+682,Fort Green Preparatory Academy,200,10.0,90.5%,13
+683,Urban Assembly Unison School (The),146,10.4,89%,13
+684,El Puente Academy For Peace And Justice,239,14.0,87%,14
+685,Automotive High School,404,10.9,80.4%,14
+686,Ps 16 Leonard Dunkly,226,12.5,91.2%,14
+687,Ps 17 Henry D Woodworth,267,8.6,70.4%,14
+688,Ps 18 Edward Bush,178,10.4,88.2%,14
+689,Ps 23 Carter G Woodson,289,11.5,90.3%,14
+690,Ps 31 Samuel F Dupont,594,14.8,72.1%,14
+691,Ps 34 Oliver H Perry,482,15.0,28.8%,14
+692,Junior High School 50 John D Wells,289,11.1,89.6%,14
+693,Ps 59 William Floyd,315,13.6,94.3%,14
+694,Juan Morel Campos Secondary School,528,9.0,87.5%,14
+695,Ps 84 Jose De Diego,795,9.9,47.3%,14
+696,Ps 110 Monitor (The),522,16.3,26.4%,14
+697,Ps 120 Carlos Tapia,407,14.0,86.7%,14
+698,John Ericsson Middle School 126,377,11.4,85.1%,14
+699,Ps 132 Conselyea School (The),724,17.2,41.2%,14
+700,Ps 147 Issac Remsen,355,14.6,70.4%,14
+701,Ps/Is 157 Benjamin Franklin Heath And Science Academy (The),481,12.9,87.1%,14
+702,Ps 196 Ten Eyck,313,11.1,87.5%,14
+703,Ps 250 George H Lindsay,484,14.2,79.1%,14
+704,Ps 257 John F Hylan,621,16.7,83.1%,14
+705,Ps 297 Abraham Stockton,223,11.7,92.4%,14
+706,Is 318 Eugenio Maria De Hostos,"1,248",16.4,65.9%,14
+707,Progress High School For Professional Careers,759,16.1,88.8%,14
+708,East Williamsburg Scholars Academy,327,11.6,93.9%,14
+709,High School For Enterprise Business & Technology (The),873,17.3,80.8%,14
+710,Ps 380 John Wayne Elementary,582,10.9,79.6%,14
+711,Ps 319,128,10.6,72.7%,14
+712,Brooklyn Preparatory High School,513,14.6,87.7%,14
+713,Conselyea Preparatory School,503,15.2,53.7%,14
+714,Middle School 582,260,11.8,83.5%,14
+715,Williamsburg High School For Architecture And Design,570,16.5,84.6%,14
+716,Williamsburg Preparatory School,683,16.1,85.5%,14
+717,Williamsburg High School Of Art And Technology (The),271,11.7,79.7%,14
+718,Brooklyn Latin School (The),681,16.1,62.8%,14
+719,Lyons Community School,494,11.2,90.1%,14
+720,Young Women's Leadership School Of Brooklyn,407,14.0,77.6%,14
+721,Brooklyn Arbor Elementary School,596,14.1,62.6%,14
+722,Digital Arts And Cinema Technology High School,209,11.3,80.9%,15
+723,Ps 1 Bergen (The),"1,298",12.5,84.3%,15
+724,Magnet School Of Math Science & Design Technology,933,9.6,23.5%,15
+725,Ps 15 Patrick F Daly,487,10.5,71.7%,15
+726,Ps 29 John M Harrigan,922,15.1,11.7%,15
+727,Ps 32 Samuel Mills Sprole,532,7.7,45.3%,15
+728,Ps 38 Pacific (The),570,15.3,50.4%,15
+729,Ps 39 Henry Bristow,411,15.2,11.9%,15
+730,Middle School 51 William Alexander,"1,132",17.1,29.1%,15
+731,Ps 58 Carroll (The),988,14.7,10.9%,15
+732,Ps 295,451,12.5,43.2%,15
+733,Ps 94 Henry Longfellow (The),"1,382",14.6,98.3%,15
+734,Ps 107 John W Kimball,566,15.2,7.2%,15
+735,Ps 124 Silas B Dutcher,345,12.4,67%,15
+736,Ps 130 Parkside (The),833,14.6,40%,15
+737,Ps 131,"1,004",14.1,85.9%,15
+738,Windsor Terrace School (The),517,15.2,13%,15
+739,Ps 169 Sunset Park,"1,508",12.6,91.4%,15
+740,Ps 172 Beacon School Of Excellence,590,12.2,86.6%,15
+741,Ps 230 Doris L Cohen,"1,168",14.5,71.1%,15
+742,Ps 261 Philip Livingston,803,14.0,36.2%,15
+743,Ps 321 William Penn,"1,417",17.7,7.2%,15
+744,Ps 24,654,12.5,95.1%,15
+745,Cobble Hill School Of American Studies,588,16.2,90.1%,15
+746,Junior High School 88 Peter Rouget,"1,355",13.5,80.7%,15
+747,Brooklyn High School Of The Arts,864,14.6,69.6%,15
+748,Brooklyn New School-Ps 146 (The),686,14.5,34.5%,15
+749,John Jay School For Law,451,15.5,79.4%,15
+750,Boerum Hill School For International Studies (The),633,14.3,57.5%,15
+751,South Brooklyn Community High School,184,14.1,89.7%,15
+752,Brooklyn Collaborative Studies,675,11.2,68.6%,15
+753,Math And Science Exploratory School (The),524,10.4,20.4%,15
+754,New Voices School Of Academic And Creative Arts,569,16.2,30.6%,15
+755,Middle School 442 Carroll Gardens School For Innovation,239,8.3,49%,15
+756,Is 136 Charles O Dewey,485,11.8,97.3%,15
+757,Park Slope Collegiate,660,12.9,67%,15
+758,Secondary School For Journalism,217,13.5,85.7%,15
+759,Sunset Park Prep,503,11.4,96.2%,15
+760,West Brooklyn Community High School,228,14.2,77.6%,15
+761,Khalil Gibran International Academy,260,10.4,86.9%,15
+762,Sunset Park High School,"1,219",11.0,85.2%,15
+763,Red Hook Neighborhood School,203,14.4,96.1%,15
+764,Brooklyn Frontiers High School,146,6.9,93.2%,15
+765,Millennium Brooklyn High School,667,11.3,39.6%,15
+766,Maurice Sendak Community School (The),309,19.3,13.9%,15
+767,Sunset Park Avenues Elementary School,429,12.8,87.6%,15
+768,Middle School 839,326,12.0,42.9%,15
+769,Boys And Girls High School,412,13.7,79.6%,16
+770,Ps 5 Dr Ronald McNair,209,13.0,89%,16
+771,Ps 21 Crispus Attucks,574,13.6,74%,16
+772,Ps 25 Eubie Blake School,101,5.9,99%,16
+773,Ps 26 Jesse Owens,230,11.5,80%,16
+774,Middle School 35 Stephen Decatur,248,14.5,87.1%,16
+775,Ps 40 George W Carver,316,15.0,87.7%,16
+776,Ps 81 Thaddeus Stevens,293,10.4,90.8%,16
+777,Junior High School 57 Whitelaw Reid,199,9.9,94%,16
+778,Ps 243 Weeksville School (The),229,9.5,94.3%,16
+779,Ps 262 El Hajj Malik El Shabazz Elementary School,183,9.1,94%,16
+780,Ps 308 Clara Cardwell,272,9.0,90.4%,16
+781,Ps 309 George E Wibecan Preparatory Academy (The),204,9.7,83.3%,16
+782,Ps 335 Granville T Woods,242,9.6,90.1%,16
+783,Middle School 267 Math Science & Technology,266,14.7,90.2%,16
+784,Brooklyn High School For Law And Technology,599,17.0,86.1%,16
+785,Ps 28 Warren Prep Academy (The),131,9.3,94.7%,16
+786,Gotham Professional Arts Academy,169,11.4,85.8%,16
+787,Brighter Choice Community School,311,14.7,84.6%,16
+788,Brooklyn Brownstone School,267,16.6,69.3%,16
+789,Brooklyn Academy Of Global Finance (The),122,8.1,96.7%,16
+790,Madiba Prep Middle School,156,10.4,92.3%,16
+791,Research And Service High School,225,14.0,90.7%,16
+792,Nelson Mandela High School,272,13.5,78.7%,16
+793,Norma Adams Clemons Academy,664,12.5,84.5%,17
+794,Medgar Evers College Preparatory School,"1,253",21.9,70.8%,17
+795,Parkside Preparatory Academy,493,15.4,90.7%,17
+796,Dr Jacqueline Peek-Davis School,281,15.6,94.7%,17
+797,Clara Barton High School,"1,208",16.5,78.9%,17
+798,Middle School 61 Dr Gladstone H Atwell,723,16.4,72.5%,17
+799,Ps 91 Albany Avenue School (The),262,11.9,95%,17
+800,Ps 138,560,11.9,92.9%,17
+801,Ps 161 Crown (The),364,12.9,93.1%,17
+802,Ps 181,682,14.5,74.3%,17
+803,Ps 189 Bilingual Center (The),"1,033",13.9,92.6%,17
+804,Ps 191 Paul Robeson,173,12.3,96.5%,17
+805,Ps 221 Toussaint L'Ouverture,307,12.2,90.6%,17
+806,Ps 241 Emma L Johnston,524,14.9,87.8%,17
+807,Middle School 246 Walt Whitman,409,12.0,85.6%,17
+808,Ps 249 Caton (The),873,14.7,77.7%,17
+809,Ps 289 George V Brower,394,12.3,80.5%,17
+810,Ps 316 Elijah Stroud,537,11.9,65.9%,17
+811,Ps 397 Foster-Laurie,195,11.4,87.7%,17
+812,Ps 398 Walter Weaver,294,9.5,96.9%,17
+813,Ps 399 Stanley Eugene Clarke,399,17.2,95%,17
+814,Is 340,225,13.2,80%,17
+815,Ps 375 Jackie Robinson School,390,12.5,92.6%,17
+816,Middle School 394,469,13.0,88.3%,17
+817,Ps 92 Adrian Hegeman,423,11.4,91.3%,17
+818,High Sschool For Public Service-Heroes Of Tomorrow,456,15.6,80.3%,17
+819,Brooklyn School For Music & Theater,302,16.7,84.1%,17
+820,Science Technology & Research High School At Erasmus,543,18.7,78.5%,17
+821,Brooklyn Academy Of Science And The Environment,368,16.7,82.3%,17
+822,School For Human Rights (The),439,14.1,84.3%,17
+823,International High School At Prospect Heights,398,13.7,81.2%,17
+824,High School For Global Citizenship (The),197,13.1,93.4%,17
+825,High School For Youth And Community Development At Erasmus,477,22.6,83.6%,17
+826,High School For Service And Learning At Erasmus,364,16.1,84.3%,17
+827,Brownsville Academy High School,101,12.6,87.1%,17
+828,Ebbets Field Middle School,165,9.7,97.6%,17
+829,Elijah Stroud Middle School,143,10.9,95.1%,17
+830,School Of Integrated Learning (The),261,10.8,93.5%,17
+831,Ronald Edmonds Learning Center II,155,12.9,90.3%,17
+832,Academy Of Hospitality And Tourism,209,16.0,87.6%,17
+833,Academy For College Prep And Career Exp,421,20.0,80.3%,17
+834,Ps 770 New American Academy,290,13.7,55.9%,17
+835,Academy For Health Careers,356,13.2,84%,17
+836,Pathways In Technology Early College High School (P-Tech),585,19.4,73.5%,17
+837,Brooklyn Institute For Liberal Arts,375,14.4,89.9%,17
+838,New Heights Middle School,237,10.3,88.6%,17
+839,Brooklyn Arts And Science Elementary School,401,17.4,62.3%,17
+840,New Bridges Elementary,472,10.9,86.2%,17
+841,Is 68 Isaac Bildersee,347,12.3,81.8%,18
+842,Ps 114 Ryder Elementary,518,14.3,77%,18
+843,Ps 115 Daniel Mucatel School,967,16.1,62.2%,18
+844,Ps 135 Sheldon A Brookner,575,19.8,87.7%,18
+845,Ps 208 Elsa Ebeling,383,10.3,83.3%,18
+846,Is 211 John Wilson,521,15.3,83.9%,18
+847,Ps 219 Kennedy-King,533,13.6,78.8%,18
+848,Ps 233 Langston Hughes,455,13.3,86.2%,18
+849,Ps 235 Janice Marie Knight School,"1,253",17.8,71.8%,18
+850,Ps 244 Richard R Green,491,10.0,81.9%,18
+851,Ps 268 Emma Lazarus,388,14.9,86.1%,18
+852,Ps 272 Curtis Estabrook,471,11.7,92.6%,18
+853,Ps 276 Louis Marshall,615,12.8,78.2%,18
+854,Ps 279 Herman Schreiber,408,12.5,80.1%,18
+855,Is 285 Meyer Levin,663,15.4,78.1%,18
+856,Ps 66,806,16.4,71.3%,18
+857,Brooklyn Generation School,193,8.7,82.4%,18
+858,Kurt Hahn Expeditionary Learning School,351,12.0,82.9%,18
+859,Middle School For Art And Philosphy,180,12.8,93.3%,18
+860,East Flatbush Community Research School,129,12.9,93%,18
+861,Brooklyn Bridge Academy,163,11.6,87.7%,18
+862,It Takes A Village Academy,711,12.6,73.4%,18
+863,Brooklyn Theatre Arts High School,366,18.2,82.2%,18
+864,Victory Collegiate High School,407,14.5,78.9%,18
+865,Olympus Academy,194,11.4,78.9%,18
+866,High School For Medical Professions,425,16.9,94.4%,18
+867,Cultural Academy For The Arts And Sciences,321,12.8,75.7%,18
+868,Urban Action Academy,274,13.7,76.3%,18
+869,Academy For Conservation And The Environment,282,12.8,83.3%,18
+870,High School For Innovation In Advertising And Media,253,13.3,71.5%,18
+871,East Brooklyn Community High School,186,9.3,75.3%,18
+872,Science And Medicine Middle School (The),394,13.1,82.5%,18
+873,Brooklyn Science And Engineering Academy,255,13.4,77.6%,18
+874,East New York Family Academy,501,12.0,87.6%,19
+875,Transit Technical Career And Technical Education High School,705,12.3,76.9%,19
+876,Is 364 Gateway,349,13.9,81.7%,19
+877,Ps 13 Roberto Clemente,493,12.6,93.9%,19
+878,Ps 65,611,17.9,82%,19
+879,Ps 108 Sal Abbracciamento,960,13.9,81.3%,19
+880,Ps 149 Danny Kaye,675,16.0,95.7%,19
+881,Ps 158 Warwick,594,13.8,88.9%,19
+882,Ps 159 Isaac Pitkin,800,15.3,84.8%,19
+883,Is 171 Abraham Lincoln,446,12.9,98.2%,19
+884,Ps 190 Sheffield,187,17.0,96.8%,19
+885,Ps 202 Ernest S Jenkyns,439,11.8,94.8%,19
+886,Ps 213 New Lots,295,21.0,93.6%,19
+887,Ps 214 Michael Friedsam,914,14.2,81%,19
+888,Junior High School 218 James P Sinnott,406,12.3,93.1%,19
+889,Ps 224 Hale A Woodruff,415,15.9,93.7%,19
+890,Ps 273 Wortman,366,14.6,85.5%,19
+891,Junior High School 292 Margaret S Douglas,563,15.2,93.8%,19
+892,Ps 306 Ethan Allen,327,11.6,95.4%,19
+893,Ps 328 Phyllis Wheatley,284,11.3,97.5%,19
+894,Ps 345 Patrolman Robert Bolden,536,12.1,84.9%,19
+895,Ps 346 Abe Stark,582,12.5,84.9%,19
+896,W H Maxwell Career And Technical Education High School,408,10.2,88.7%,19
+897,Ps 89 Cypress Hills,458,11.7,92.4%,19
+898,Ps 290 Juan Morel Campos,522,11.6,95%,19
+899,Ps 7 Abraham Lincoln,877,13.4,91.8%,19
+900,Captain Vernon A Richards High School-Fire,332,16.4,83.7%,19
+901,High School For Civil Rights,241,13.3,83.8%,19
+902,Performing Arts And Technology High School,449,15.4,91.3%,19
+903,World Academy For Total Community Health High School,262,13.7,93.1%,19
+904,Academy For Young Writers,545,11.5,83.9%,19
+905,Frederick Douglass Academy VIII Middle School,338,14.6,88.2%,19
+906,Multicultural High School,226,10.2,92.5%,19
+907,Cypress Hills Collegiate Preparatory School,246,17.9,85.4%,19
+908,Brooklyn Lab School,391,15.0,87%,19
+909,Academy Of Innovative Technology,401,11.8,86.3%,19
+910,East New York Middle School Of Excellence,251,12.5,90.4%,19
+911,School For Classics High School,284,12.9,88%,19
+912,East New York Elementary School Of Excellence,528,12.5,89.2%,19
+913,Fresh Creek School (The),214,12.5,94.4%,19
+914,Spring Creek Community School,482,11.7,82.2%,19
+915,Brooklyn Gardens Elementary School,305,10.8,96.1%,19
+916,Van Siclen Community Middle School,302,15.8,95%,19
+917,Vista Academy,438,17.5,97.7%,19
+918,Liberty Avenue Middle School,462,12.4,96.8%,19
+919,School Of The Future Brooklyn,199,11.0,92.5%,19
+920,Highland Park Community School,329,14.1,92.7%,19
+921,Urban Assembly School For Collaborative Healthcare (The),315,12.5,80.3%,19
+922,Is 187 Christa McAuliffe School (The),874,16.8,66.1%,20
+923,High School Of Telecommunication Arts And Technology,"1,273",15.5,75.8%,20
+924,Franklin Delano Roosevelt High School,"3,039",16.4,81.7%,20
+925,Fort Hamilton High School,"4,580",20.3,72.1%,20
+926,New Utrecht High School,"3,560",17.7,79.6%,20
+927,Ps 48 Mapleton,593,13.1,73.2%,20
+928,Junior High School 62 Ditmas,"1,200",15.3,88.1%,20
+929,Ps 102 Bayview (The),"1,426",15.6,65.4%,20
+930,Ps/Is 104 Fort Hamilton School (The),"1,264",18.0,64.2%,20
+931,Ps 105 Blythebourne (The),"1,514",17.1,88.2%,20
+932,Ps 112 Lefferts Park,684,12.2,70.3%,20
+933,Ps 127 McKinley Park,538,15.3,81.4%,20
+934,Ps 160 William T Sampson,"1,278",13.3,86.1%,20
+935,Ps 163 Bath Beach,626,14.2,80.4%,20
+936,Ps 164 Caesar Rodney,698,13.9,83.1%,20
+937,Ralph A Fabrizio School,"1,037",13.4,91.4%,20
+938,Ps 176 Ovington,"1,334",13.8,87%,20
+939,Ps 179 Kensington,885,13.4,86.1%,20
+940,Seeall Academy (The),"1,129",13.0,88%,20
+941,Ps 185 Walter Kassenbrock,650,15.4,39.7%,20
+942,Ps 186 Dr Irving A Gladstone,"1,030",14.5,72.8%,20
+943,Ps 192 Magnet School For Math And Science Inquiry (The),675,11.6,85.3%,20
+944,Ps 200 Benson School,"1,315",16.6,82.4%,20
+945,Junior High School 201 Dyker Heights (The),"1,584",18.2,75.4%,20
+946,Ps 204 Vince Lombardi,"1,178",14.5,77.1%,20
+947,Ps 205 Clarion,"1,280",14.2,66.8%,20
+948,Junior High School 220 John J Pershing,"1,539",13.7,86.3%,20
+949,Junior High School 223 Montauk (The),942,13.6,97.3%,20
+950,Junior High School 227 Edward B Shallow,"1,499",16.6,92%,20
+951,Ps 229 Dyker,"1,249",17.1,60%,20
+952,Ps 247,873,15.9,66.4%,20
+953,Junior High School 259 William McKinley,"1,858",18.7,80.4%,20
+954,Ps/Is 30 Mary White Ovington,924,14.4,80.1%,20
+955,Ps 69 Vincent D Grippo School,783,15.0,97.1%,20
+956,Ps 506 School Of Journalism And Technology (The),804,11.9,96.3%,20
+957,Ps 503 School Of Discovery (The),"1,081",11.4,96.2%,20
+958,Urban Assembly School For Criminal Justice,548,12.4,94%,20
+959,Academy Of Talented Scholars (The),378,7.7,38.1%,20
+960,Brooklyn School Of Inquiry,566,22.6,22.4%,20
+961,School Of Math Science And Healthy Living,357,12.3,92.2%,20
+962,Ps 748 Brooklyn School For Global Scholars,546,15.1,73.3%,20
+963,Ps 264 Bay Ridge Elementary School For The Arts,481,11.7,68.6%,20
+964,School For Future Leaders (The),408,13.5,94.9%,20
+965,Abraham Lincoln High School,"1,946",16.6,78.6%,21
+966,Edward R Murrow High School,"3,781",18.9,70.6%,21
+967,Ps 90 Edna Cohen School,666,13.5,83.5%,21
+968,Ps 95 Gravesend (The),941,14.6,74.3%,21
+969,Is 96 Seth Low,773,12.0,79.3%,21
+970,Ps 97 Highlawn (The),773,13.1,66.9%,21
+971,Ps 99 Isaac Asimov,874,14.8,74.1%,21
+972,Ps 100 Coney Island School (The),793,17.6,50.8%,21
+973,Ps 101 Verrazano (The),865,13.7,65.7%,21
+974,Ps 121 Nelson A Rockefeller,334,6.4,64.7%,21
+975,Ps 128 Bensonhurst,457,12.3,86.9%,21
+976,Ps 153 Homecrest,558,12.9,78.1%,21
+977,Ps 177 Marlboro (The),"1,024",14.2,76.3%,21
+978,Ps 188 Michael E Berdy,438,15.6,90.2%,21
+979,Ps 199 Frederick Wachtel,551,10.3,84.4%,21
+980,Ps 209 Margaret Mead,725,13.9,79.3%,21
+981,Ps 212 Lady Deborah Moody,696,11.6,86.2%,21
+982,Ps 215 Morris H Weiss,924,17.1,73.8%,21
+983,Ps 216 Arturo Toscanini,752,17.8,75%,21
+984,Ps 225 Eileen E Zaglin (The),997,13.4,77.9%,21
+985,Ps 226 Alfred De B Mason,"1,025",13.8,86%,21
+986,Is 228 David A Boody,"1,309",14.5,80.1%,21
+987,Ps 238 Anne Sullivan,613,12.1,82.1%,21
+988,Mark Twain Is 239 For The Gifted And Talented,"1,323",19.6,38.2%,21
+989,Ps 253,912,13.6,83.8%,21
+990,Is 281 Joseph B Cavallaro,"1,341",16.1,86.9%,21
+991,Ps 288 Shirley Tanyhill (The),667,12.1,92.1%,21
+992,Is 303 Herbert S Eisenberg,536,17.2,77.6%,21
+993,Ps 329 Surfside,420,13.5,95.2%,21
+994,William E Grady Career And Technical Education High School,460,12.4,89.3%,21
+995,Is 98 Bay Academy,"1,532",21.8,55%,21
+996,Brooklyn Studio Secondary School,929,15.7,76.3%,21
+997,John Dewey High School,"2,294",17.7,83.3%,21
+998,International High School At Lafayette,331,13.5,94.3%,21
+999,Rachel Carson High School For Coastal Studies,637,18.5,67.5%,21
+1000,High School Of Sports Management,247,18.9,80.6%,21
+1001,Kingsborough Early College School,656,16.8,71.3%,21
+1002,Life Academy High School For Film And Music,302,14.3,77.2%,21
+1003,Expeditionary Learning School For Community Leaders,340,14.7,82.1%,21
+1004,Liberation Diploma Plus,202,16.8,88.1%,21
+1005,Ps 245,311,12.4,95.5%,22
+1006,Brooklyn College Academy,622,20.7,70.6%,22
+1007,Leon M Goldstein High School For The Sciences,"1,011",18.3,50.5%,22
+1008,Ps 109,685,14.5,87%,22
+1009,Junior High School 14 Shell Bank,522,11.8,91.2%,22
+1010,Junior High School 78 Roy H Mann,563,14.4,85.1%,22
+1011,James Madison High School,"3,655",19.0,76.9%,22
+1012,Junior High School 278 Marine Park,"1,107",13.1,71.2%,22
+1013,Midwood High School,"4,060",22.0,74.9%,22
+1014,Ps 52 Sheepshead Bay,817,13.8,76.3%,22
+1015,Ps 119 Amersfort,445,14.3,71.7%,22
+1016,Ps 139 Alexine A Fenty,995,15.3,80.4%,22
+1017,School Of Science And Technology,731,14.3,79.5%,22
+1018,Ps 193 Gil Hodges,757,12.9,75.4%,22
+1019,Ps 194 Raoul Wallenberg,583,14.2,87.7%,22
+1020,Ps 195 Manhattan Beach,479,17.1,31.5%,22
+1021,Ps 197 Kings Highway Academy (The),656,12.8,62.5%,22
+1022,Ps 198,392,10.8,82.7%,22
+1023,Ps 206 Joseph F Lamb,"1,503",17.0,73.5%,22
+1024,Ps 207 Elizabeth G Leary,"1,230",14.4,51.2%,22
+1025,Ps 217 Colonel David Marcus School,"1,175",15.4,76.5%,22
+1026,Ps 222 Katherine R Snyder,935,12.4,53.7%,22
+1027,Junior High School 234 Arthur W Cunningham,"1,909",17.4,71.6%,22
+1028,Ps 236 Mill Basin,552,15.7,47.6%,22
+1029,Andries Hudde,753,15.4,84.7%,22
+1030,Ps 254 Dag Hammarskjold,796,16.5,57.4%,22
+1031,Ps 255 Barbara Reing School,931,13.1,76.6%,22
+1032,Ps 312 Bergen Beach,791,15.2,56%,22
+1033,Ps 203 Floyd Bennett School,731,14.0,64.8%,22
+1034,Ps 251 Paerdegat,521,13.0,74.1%,22
+1035,Ps 315,678,15.0,89.1%,22
+1036,Ps 361 East Flatbush Early Childhood School,421,15.0,87.4%,22
+1037,Ps 134,566,12.2,78.6%,22
+1038,Is 381,244,11.0,68.9%,22
+1039,Ps 326,190,13.5,84.2%,22
+1040,Origins High School,427,12.9,75.6%,22
+1041,Professional Pathways High School,197,11.5,80.7%,22
+1042,Ps 889,83,9.2,73.5%,22
+1043,Middle School 890,117,14.6,84.6%,22
+1044,Ps 277 Gerritsen Beach,418,13.0,51.9%,22
+1045,Ps 41 Francis White,461,11.8,98.3%,23
+1046,Ps/Is 137 Rachael Jean Mitchell,304,11.2,92.8%,23
+1047,Ps 150 Christopher,172,10.7,98.8%,23
+1048,Ps/Is 155 Nicholas Herkimer,419,12.9,97.1%,23
+1049,Ps 156 Waverly,706,13.3,91.5%,23
+1050,Ps 165 Ida Posner,220,7.5,92.3%,23
+1051,Ps 178 Saint Clair McKelway,376,12.9,88.6%,23
+1052,Ps 184 Newport,550,14.4,91.3%,23
+1053,Gregory Jocko Jackson-Sports-Arts,471,12.7,94.1%,23
+1054,Ps 298 Dr Betty Shabazz,266,20.4,99.6%,23
+1055,Ps 327 Dr Rose B English,328,12.6,97.6%,23
+1056,Ps/Is 323,565,18.2,93.5%,23
+1057,Is 392,292,12.6,75.3%,23
+1058,Teachers Preparatory High School,242,10.5,89.7%,23
+1059,Brooklyn Collegiate: A College Board School,266,12.2,95.1%,23
+1060,Frederick Douglass Academy Vii High School,158,10.5,92.4%,23
+1061,Kappa V (Knowledge And Power Prep Academy),229,20.7,85.2%,23
+1062,Mott Hall IV,161,14.6,88.8%,23
+1063,Aspirations Diploma Plus High School,180,11.2,95%,23
+1064,Brooklyn Democracy Academy,213,16.3,82.2%,23
+1065,Metropolitan Diploma Plus High School,175,10.9,93.7%,23
+1066,Eagle Academy For Young Men II,643,15.6,82.1%,23
+1067,Mott Hall Bridges Academy,199,13.2,95%,23
+1068,Christopher Avenue Community School,299,11.4,97.3%,23
+1069,Riverdale Avenue Community School,349,11.2,94.8%,23
+1070,Brownsville Collaborative Middle School,106,15.1,91.5%,23
+1071,Brooklyn Landmark Elementary School,325,15.4,74.5%,23
+1072,Brooklyn Environmental Exploration School (Bees),92,7.6,97.8%,23
+1073,Riverdale Avenue Middle School,129,11.7,96.1%,23
+1074,Ps 7 Louis F Simeone,"1,002",14.7,88.2%,24
+1075,Robert F Wagner Junior Secondary School For Arts And Technology,666,17.5,77.6%,24
+1076,Aviation Career And Technical Education High School,"2,087",17.3,63.3%,24
+1077,Grover Cleveland High School,"1,751",16.8,72.3%,24
+1078,Newtown High School,"1,913",17.2,80.1%,24
+1079,Ps 13 Clement C Moore,"1,605",16.8,72.9%,24
+1080,Ps 14 Fairview,"1,687",14.2,84.6%,24
+1081,Ps 19 Marino Jeantet,"1,894",13.1,91.7%,24
+1082,Ps 49 Dorothy Bonawit Kole,"1,156",17.0,47.5%,24
+1083,Is 61 Leonardo Da Vinci,"2,225",14.0,96.3%,24
+1084,Ps 68 Cambridge,650,13.5,70.8%,24
+1085,Ps 71 Forest,757,12.0,86.7%,24
+1086,Is 73 Frank Sansivieri Intermediate School (The),"1,981",14.4,70.4%,24
+1087,Ps 81 Jean Paul Richter,688,13.8,83.1%,24
+1088,Ps/Is 87 Middle Village,608,13.8,64%,24
+1089,Ps 88 Seneca,940,13.6,75.3%,24
+1090,Ps 89 Elmhurst,"1,960",14.9,76.8%,24
+1091,Ps 91 Richard Arkwright,751,14.9,71.8%,24
+1092,Is 93 Ridgewood,"1,094",13.0,94.6%,24
+1093,Ps 102 Bayview,"1,331",16.4,85.3%,24
+1094,Ps/Is 113 Anthony J Pranzo,895,17.2,55.5%,24
+1095,Is 119 Glendale (The),"1,278",17.7,74.3%,24
+1096,Is 125 Thomas J McCann Woodside,"1,507",15.3,76.1%,24
+1097,Ps 128 Lorraine Tuzzo-Juniper Valley,970,15.6,36.2%,24
+1098,Ps 143 Louis Armstrong,"1,508",12.7,94.8%,24
+1099,Ps 153 Maspeth Elementary,"1,211",16.5,70.9%,24
+1100,Ps 199 Maurice A FitzGerald,875,15.0,68.6%,24
+1101,Ps 229 Emanuel Kaplan,"1,465",16.8,71.5%,24
+1102,Queens Technical High School,"1,544",15.5,85.6%,24
+1103,Is 5 Walter Crowley Intermediate School (The),"1,796",14.4,79%,24
+1104,High School For Arts And Business,817,17.0,71.6%,24
+1105,Ps 16 Nancy Debenedittis School (The),"1,573",15.5,85.4%,24
+1106,Ps 12 James B Colgate,"1,217",15.7,89.1%,24
+1107,Is 77,"1,012",13.3,92.9%,24
+1108,Middle College High School At Laguardia Community College,507,21.1,69.6%,24
+1109,International High School At Laguardia Community College,525,18.1,68.8%,24
+1110,Ps 28 Thomas Emanuel Early Childhood Center (The),506,12.0,83%,24
+1111,Ps 58 School Of Heroes (The),"1,029",14.9,76.4%,24
+1112,Ps 239,557,12.6,93.5%,24
+1113,Academy Of Finance And Enterprise,601,19.3,82%,24
+1114,High School Of Applied Communications,417,16.6,77.7%,24
+1115,Bard High School Early College Queens,622,17.2,40.5%,24
+1116,Civic Leadership Academy,529,16.0,76.6%,24
+1117,Learners And Leaders,617,12.0,86.7%,24
+1118,Pioneer Academy,933,14.8,97.3%,24
+1119,Voyages Preparatory,255,17.3,75.3%,24
+1120,Pan American International High School,437,10.6,90.2%,24
+1121,Helen M Marshall School,592,13.4,93.1%,24
+1122,Ace Academy For Scholars At The Geraldine Ferraro Campus,548,15.6,65.7%,24
+1123,Maspeth High School,"1,194",18.6,63.7%,24
+1124,Ps 110,786,14.0,93.8%,24
+1125,Elm Tree Elementary School,300,11.5,96%,24
+1126,Corona Arts And Sciences Academy,726,14.8,97.5%,24
+1127,International High School For Health Sciences,299,13.5,95%,24
+1128,Children's Lab School (The),371,12.7,82.7%,24
+1129,Rose M Singer Center,217,14.7,0%,24
+1130,Is 250 Robert F Kennedy Community Middle School (The),402,12.1,83.3%,25
+1131,Robert F Kennedy Community High School,759,19.4,80.5%,25
+1132,Flushing High School,"1,678",15.2,74.4%,25
+1133,Is 25 Adrien Block,"1,027",18.5,58.3%,25
+1134,Is 237,"1,363",16.6,84.5%,25
+1135,John Bowne High School,"3,608",18.6,75.6%,25
+1136,Ps 20 John Bowne,"1,311",15.4,93.4%,25
+1137,Ps 21 Edward Hart,"1,422",16.1,78.2%,25
+1138,Ps 22 Thomas Jefferson,920,13.7,91.1%,25
+1139,Ps 24 Andrew Jackson,999,15.6,70%,25
+1140,Ps 29,737,15.0,87.4%,25
+1141,Ps 32 State Street,983,15.8,67.8%,25
+1142,Ps 79 Francis Lewis,"1,133",18.8,53.1%,25
+1143,Ps 107 Thomas A Dooley,972,14.2,76.5%,25
+1144,Ps 120,"1,033",16.1,74.8%,25
+1145,Ps 129 Patricia Larkin,"1,094",14.7,77.8%,25
+1146,Ps 154,674,14.0,82%,25
+1147,Ps 163 Flushing Heights,800,14.5,80.8%,25
+1148,Ps 164 Queens Valley,690,12.5,73.5%,25
+1149,Ps 165 Edith K Bergtraum,764,8.5,72.9%,25
+1150,Ps 169 Bay Terrace,444,13.0,33.6%,25
+1151,Ps 184 Flushing Manor,513,14.6,46.6%,25
+1152,Junior High School 185 Edward Bleeker,"1,523",16.2,77%,25
+1153,Junior High School 189 Daniel Carter Beard,774,15.4,77.5%,25
+1154,Ps 193 Alfred J Kennedy,590,15.5,37.5%,25
+1155,Junior High School 194 William Carr,"1,247",16.4,59.7%,25
+1156,Ps/Middle School 200 Magnet School-Global Studi,520,12.6,72.1%,25
+1157,Ps 201 Discovery School For Inquiry And Research (The),474,11.2,71.9%,25
+1158,Ps 209 Clearview Gardens,584,14.9,40.6%,25
+1159,Ps 214 Cadwallader Colden,537,14.1,79.1%,25
+1160,Ps 219 Paul Klapper,640,9.4,74.1%,25
+1161,Queens College School For Math Science & Technology (The),496,17.7,49.6%,25
+1162,Townsend Harris High School,"1,144",20.4,55.2%,25
+1163,Ps 130,396,13.6,47.5%,25
+1164,Ps 242 Leonard P Stavisky Early Childhood School,394,11.9,64.5%,25
+1165,Queens Academy High School,302,15.8,66.2%,25
+1166,Flushing International High School,435,15.5,92.6%,25
+1167,Queens School Of Inquiry (The),580,12.3,60.2%,25
+1168,World Journalism Preparatory: A College Board School,568,14.9,56.9%,25
+1169,East-West School Of International Studies,655,11.4,86.4%,25
+1170,Bell Academy,374,13.8,48.4%,25
+1171,North Queens Community High School,192,17.4,71.9%,25
+1172,Active Learning Elementary School (The),460,15.3,79.1%,25
+1173,Veritas Academy,552,15.3,75.4%,25
+1174,Queens High School For Language Studies,428,15.2,86.2%,25
+1175,Bayside High School,"3,038",18.8,74%,26
+1176,Benjamin N Cardozo High School,"3,712",22.5,66.9%,26
+1177,Francis Lewis High School,"4,541",19.5,73.1%,26
+1178,Martin Van Buren High School,"1,175",15.7,77.2%,26
+1179,Ps 18 Winchester,620,14.7,58.9%,26
+1180,Ps 26 Rufus King,705,15.3,68.4%,26
+1181,Ps 31 Bayside,549,14.0,56.5%,26
+1182,Ps 41 Crocheron,488,13.9,39.3%,26
+1183,Ps 46 Alley Pond,555,9.5,51.2%,26
+1184,Junior High School 67 Louis Pasteur,894,17.5,40.6%,26
+1185,Junior High School 74 Nathaniel Hawthorne,"1,157",17.5,48.5%,26
+1186,Ps 94 David D Porter,326,13.0,49.7%,26
+1187,Ps 98 Douglaston School (The),289,13.1,22.1%,26
+1188,James J Ambrose School (The),756,16.7,43.4%,26
+1189,Ps 133,555,13.8,61.1%,26
+1190,Middle School 158 Marie Curie,"1,058",17.9,56.5%,26
+1191,Ps 159,680,14.7,51.2%,26
+1192,Ps 162 John Golden,676,16.4,63.8%,26
+1193,Irwin Altman Middle School 172,983,16.6,62.3%,26
+1194,Ps 173 Fresh Meadows,949,16.3,58%,26
+1195,Ps/Is 178 Holliswood,563,16.0,37.1%,26
+1196,Ps 186 Castlewood,384,5.9,34.6%,26
+1197,Ps 188 Kingsbury,731,17.4,25.9%,26
+1198,Ps 191 Mayflower,399,15.9,62.7%,26
+1199,Ps 203 Oakland Gardens,936,16.1,44.9%,26
+1200,Ps 205 Alexander Graham Bell,327,14.8,27.8%,26
+1201,Ps 213 Carl Ullman School (The),466,16.0,55.2%,26
+1202,Junior High School 216 George J Ryan,"1,458",18.4,68.3%,26
+1203,Ps 221 North Hills School (The),626,16.0,39.9%,26
+1204,Queens High School Of Teaching Liberal Arts And Sciences,"1,067",17.7,54.7%,26
+1205,Ps/Is 266,644,13.1,53.9%,26
+1206,Business Technology Early College High School,424,13.8,77.6%,26
+1207,Ps 376,98,9.8,52%,26
+1208,Ps 51,250,15.0,79.6%,27
+1209,August Martin High School,328,13.1,86.3%,27
+1210,Middle School 53 Brian Piccolo,271,11.2,80.4%,27
+1211,Junior High School 226 Virgil I Grisson,911,18.2,90.7%,27
+1212,John Adams High School,"2,270",14.0,79.9%,27
+1213,Ps/Middle School 42 R Vernam,663,10.8,96.1%,27
+1214,Ps 45 Clarence Witherspoon,324,11.9,90.7%,27
+1215,Ps 47 Chris Galas,218,9.0,35.3%,27
+1216,Ps 60 Woodhaven,"1,175",15.6,87.7%,27
+1217,Ps 62 Chester Park School,942,15.6,70.6%,27
+1218,Ps 63 Old South,"1,223",15.1,86.4%,27
+1219,Ps 64 Joseph P Addabbo,616,15.0,75%,27
+1220,Ps 66 Jacqueline Kennedy-Onassis,496,12.3,87.1%,27
+1221,Ps 90 Horace Mann,852,15.4,90.6%,27
+1222,Ps 96,307,16.1,84.7%,27
+1223,Ps 97 Forest Park,721,14.4,87.7%,27
+1224,Ps 100 Glen Morris,954,15.3,62.4%,27
+1225,Ps 104 Bays Water (The),685,13.1,80.1%,27
+1226,Ps 105 Bay School (The),803,13.8,87.9%,27
+1227,Lighthouse Elementary School,216,9.0,93.1%,27
+1228,Ps 108 Capt Vincent G Fowler,"1,469",15.9,85%,27
+1229,Ps/Middle School 114 Belle Harbor,669,13.1,24.5%,27
+1230,Ps 123,683,14.2,85.5%,27
+1231,Ps 124 Osmond A Church,"1,225",16.3,63%,27
+1232,Ps 43,894,14.4,91.1%,27
+1233,Ps 65 Raymond York Elementary School (The),457,13.0,71.1%,27
+1234,Ps 146 Howard Beach,681,14.8,47%,27
+1235,Ps 155,519,15.2,92.1%,27
+1236,Ps 183 Dr Richard R Green,526,11.1,93.3%,27
+1237,Ps 197 Ocean School (The),495,10.9,96%,27
+1238,Junior High School 202 Robert H Goddard,"1,099",17.0,80.6%,27
+1239,Ps 207 Rockwood Park,683,10.3,34.7%,27
+1240,Junior High School 210 Elizabeth Blackwell,"1,881",15.9,85%,27
+1241,Ps 223 Lyndon B Johnson,559,13.9,93.4%,27
+1242,Ps 232 Lindenwood,967,15.1,61.7%,27
+1243,Richmond Hill High School,"1,670",12.8,79.6%,27
+1244,Ps 56 Harry Eichler,384,14.7,81.8%,27
+1245,Middle School 137 America's School Of Heroes,"1,888",16.1,88.3%,27
+1246,Ps 253,568,13.8,96.8%,27
+1247,Ps 254 Rosa Parks School (The),647,14.7,81.3%,27
+1248,Frederick Douglass Academy VI High School,336,17.8,78.3%,27
+1249,Channel View School For Research,886,14.0,73%,27
+1250,Scholars' Academy,"1,375",18.8,47.9%,27
+1251,Goldie Maple Academy,432,17.2,79.2%,27
+1252,Knowledge And Power Preparatory Academy VI,265,16.5,84.9%,27
+1253,"""high School-Construction Trades Engineering & Architectur","1,026",17.3,60.5%,27
+1254,"""queens High School For Information Research And Technology",436,15.5,73.4%,27
+1255,New York City Academy For Discovery,419,13.0,83.8%,27
+1256,Robert H Goddard High School-Community/Technical,620,16.3,75.2%,27
+1257,Academy Of Medical Technology - A College Board School,645,13.4,79.4%,27
+1258,Village Academy,357,12.7,83.2%,27
+1259,Waterside Children's Studio School,500,11.8,72.8%,27
+1260,Waterside School For Leadership,228,11.4,90.4%,27
+1261,Rockaway Park High School For Environmental Sustainability,310,14.0,89%,27
+1262,Ps 273,340,12.5,92.9%,27
+1263,Rockaway Collegiate High School,322,12.8,79.5%,27
+1264,Wave Preparatory Elementary School,557,14.2,89.2%,27
+1265,Hawtree Creek Middle School,365,12.5,91.8%,27
+1266,Voyages Prep-South Queens,291,15.3,74.6%,27
+1267,Queens Explorers Elementary School,378,12.1,75.4%,27
+1268,Epic High School - North,386,16.7,74.1%,27
+1269,Epic High School-South,335,14.5,69%,27
+1270,Ps 377,135,9.0,68.1%,27
+1271,Queens Gateway To Health Sciences Secondary School,690,18.6,62.6%,28
+1272,Forest Hills High School,"3,784",18.9,73.4%,28
+1273,Hillcrest High School,"3,352",20.0,82.3%,28
+1274,Ps 40 Samuel Huntington,465,12.2,93.1%,28
+1275,Ps 48 William Wordsworth,603,15.6,90.5%,28
+1276,Ps 50 Talfourd Lawn Elementary School,802,15.1,94.9%,28
+1277,Ps 54 Hillside,565,14.1,79.5%,28
+1278,Ps 55 Maure,514,13.5,83.3%,28
+1279,Catherine & Count Basie Middle School 72,378,11.1,81.7%,28
+1280,Ps 80 Thurgood Marshall Magnet School Of Multimedia,519,13.2,76.3%,28
+1281,Ps 82 Hammond,651,13.5,79.9%,28
+1282,Ps 86,950,14.6,78.1%,28
+1283,Ps 99 Kew Gardens,794,14.7,66.5%,28
+1284,Ps 101 School In The Gardens,654,16.7,18.7%,28
+1285,Ps 117 J Keld/Briarwood School,"1,015",15.1,58%,28
+1286,Ps 121,935,15.5,82.2%,28
+1287,Ps 139 Rego Park,748,15.2,62.8%,28
+1288,Ps 140 Edward K Ellington,477,14.0,91.2%,28
+1289,Ps 144 Col Jeromus Remsen,893,16.8,21.7%,28
+1290,Junior High School 157 Stephen A Halsey,"1,632",17.0,54.4%,28
+1291,Ps 160 Walter Francis Bishop,654,13.3,85.5%,28
+1292,Ps 174 William Sidney Mount,669,15.1,37.5%,28
+1293,Ps 175 Lynn Gross Discovery School (The),809,18.8,60.3%,28
+1294,Junior High School 190 Russell Sage,"1,054",19.5,42.9%,28
+1295,Ps 196 Grand Central Parkway,996,17.1,24.5%,28
+1296,Ps 206 Horace Harding School (The),612,14.5,78.1%,28
+1297,Junior High School 217 Robert A Van Wyck,"1,628",18.0,70.3%,28
+1298,Ps 220 Edward Mandel,709,15.0,74.5%,28
+1299,Thomas A Edison Career And Technical Education High School,"2,138",19.4,80.9%,28
+1300,Junior High School 8 Richard S Grossley,341,11.3,90%,28
+1301,Ps 182 Samantha Smith,759,14.3,96.7%,28
+1302,Ps 161 Arthur Ashe School,702,14.3,84.3%,28
+1303,Queens High School For The Sciences At York College,474,19.1,63.3%,28
+1304,High School For Law Enforcement And Public Safety,503,14.7,73.4%,28
+1305,Young Women's Leadership School-Queens,566,16.6,79%,28
+1306,York Early College Academy,641,20.6,73.2%,28
+1307,Queens Collegiate - A College Board School,670,14.0,87.6%,28
+1308,Academy For Excellence Through The Arts (The),205,14.6,24.4%,28
+1309,Hillside Arts & Letters Academy,471,18.1,80.9%,28
+1310,Queens Satellite High School For Opportunity,188,15.6,89.4%,28
+1311,Metropolitan Expeditionary Learning School,841,12.7,71.5%,28
+1312,Queens Metropolitan High School,"1,088",16.7,60.3%,28
+1313,High School For Community Leadership,465,14.9,81.7%,28
+1314,Jamaica Gateway To The Sciences,510,18.1,74.5%,28
+1315,Jermaine L Green Stem Institute In Queens (The),619,15.8,76.9%,28
+1316,Emerson School (The),362,12.0,85.9%,28
+1317,Jamaica Children's School,152,10.8,91.4%,28
+1318,Redwood Middle School,313,12.0,69.3%,28
+1319,Middle School 358,383,15.3,88.3%,28
+1320,Queens School For Leadership And Excellence (The),315,14.3,88.3%,28
+1321,Math/Science Research/Technical Magnet,396,17.3,74.7%,29
+1322,Humanities And Arts Magnet High School,456,19.8,84%,29
+1323,Is 238 Susan B Anthony Academy,"1,392",15.1,90%,29
+1324,Ps 15 Jackie Robinson,436,16.1,73.4%,29
+1325,Ps 33 Edward M Funk,971,17.0,81.3%,29
+1326,Ps 34 John Harvard,576,15.9,90.6%,29
+1327,Ps 35 Nathaniel Woodhull,713,15.8,89.8%,29
+1328,Ps 36 Saint Albans School,447,13.5,70.5%,29
+1329,Cynthia Jenkins School,451,11.5,78.5%,29
+1330,Ps 38 Rosedale,269,15.8,77.7%,29
+1331,Ps 52,481,14.1,73%,29
+1332,Is 59 Springfield Gardens,590,15.9,75.4%,29
+1333,Ps 95 Eastwood,"1,494",16.2,74.4%,29
+1334,Jean Nuzzi Intermediate School,"1,110",16.3,66.5%,29
+1335,Ps/Is 116 William C Hughley,787,13.7,77.8%,29
+1336,Ps 118 Lorraine Hansberry,450,12.8,72.9%,29
+1337,Ps 131 Abigail Adams,812,17.6,91.3%,29
+1338,Ps 132 Ralph Bunche,388,12.7,83%,29
+1339,Ps 134 Hollis,380,12.2,84.2%,29
+1340,Bellaire School (The),989,16.2,57.4%,29
+1341,Ps 136 Roy Wilkins,615,13.3,79.5%,29
+1342,Ps/Middle School 138 Sunrise,764,14.4,78.4%,29
+1343,Ps/Middle School 147 Ronald McNair,579,13.4,73.2%,29
+1344,Ps 156 Laurelton,268,13.3,73.9%,29
+1345,Ps 176 Cambria Heights,714,16.9,76.3%,29
+1346,Ps 181 Brookfield,331,10.0,72.5%,29
+1347,Is 192 Linden (The),496,16.4,73.2%,29
+1348,Ps 195 William Haberle,560,14.3,85%,29
+1349,Ps 251,339,12.5,75.8%,29
+1350,Ps/Is 208,706,14.1,46.9%,29
+1351,Ps/Is 268,635,14.1,78.3%,29
+1352,Gordon Parks School (The),756,17.5,67.6%,29
+1353,Excelsior Preparatorty High School,477,18.3,70%,29
+1354,George Washington Carver High School For The Sciences,462,16.1,72.9%,29
+1355,Queens Preparatory Academy,404,14.4,79.7%,29
+1356,Pathways College Preparatory School: A College Board School,582,15.3,74.7%,29
+1357,Preparatory Academy For Writers: A College Board School,578,18.0,68.7%,29
+1358,Ps/Is 295,499,13.1,76.6%,29
+1359,Eagle Academy For Young Men III,526,15.4,73.2%,29
+1360,Cambria Heights Academy,357,13.2,74.2%,29
+1361,Collaborative Arts Middle School,303,13.1,78.2%,29
+1362,Community Voices Middle School,304,14.4,71.1%,29
+1363,Queens United Middle School,206,12.1,73.8%,29
+1364,Institute For Health Professions At Cambria Heights,418,13.4,75.8%,29
+1365,Benjamin Franklin High School-Finance-Info,397,14.1,84.1%,29
+1366,Ps 360,176,14.6,59.7%,29
+1367,Newcomers High School,887,15.0,90.2%,30
+1368,Long Island City High School,"2,257",16.4,79.9%,30
+1369,Ps 2 Alfred Zimberg,565,14.4,73.1%,30
+1370,Is 10 Horace Greeley,740,14.7,76.6%,30
+1371,Ps 11 Kathryn Phelan,"1,024",14.0,68.1%,30
+1372,Ps 17 Henry David Thoreau,551,12.2,72.6%,30
+1373,Ps 69 Jackson Heights,"1,039",17.9,61.6%,30
+1374,Ps 70,878,14.6,82.6%,30
+1375,Ps 76 William Hallet,456,7.9,77.2%,30
+1376,Ps 84 Steinway,271,11.7,56.8%,30
+1377,Ps 85 Judge Charles Vallone,658,17.3,42.4%,30
+1378,Ps 92 Harry T Stewart Senior,920,12.9,82.1%,30
+1379,Ps 111 Jacob Blackwell,312,10.3,94.9%,30
+1380,Ps 112 Dutch Kills,484,13.4,81.4%,30
+1381,Ps 122 Mamie Fay,"1,360",18.8,53.1%,30
+1382,Albert Shanker School For Visual And Performing Arts,659,14.9,86.8%,30
+1383,Ps 127 Aerospace Science Magnet School,"1,295",15.0,85.3%,30
+1384,Is 141 Steinway (The),"1,111",16.8,61%,30
+1385,Is 145 Joseph Pulitzer,"1,696",15.1,94.6%,30
+1386,Ps 148,915,15.2,78.9%,30
+1387,Academy For New Americans,97,7.4,95.9%,30
+1388,Ps 149 Christa McAuliffe,"1,056",14.2,76.8%,30
+1389,Ps 151 Mary D Carter,383,11.9,93.2%,30
+1390,Ps 152 Gwendoline N Alleyne School,"1,106",15.1,75.3%,30
+1391,Academy Of American Studies,"1,016",20.6,68.5%,30
+1392,Ps 166 Henry Gradstein,"1,076",16.3,68.8%,30
+1393,Ps 171 Peter G Van Alst,498,12.4,92.4%,30
+1394,Is 204 Oliver W Holmes,481,11.1,89.4%,30
+1395,William Cullen Bryant High School,"2,378",17.1,84.9%,30
+1396,Ps/Is 78,704,13.7,26.8%,30
+1397,Is 227 Louis Armstrong,"1,583",16.6,73.7%,30
+1398,Ps 212,780,14.4,58.6%,30
+1399,Is 230,"1,291",16.5,82%,30
+1400,Ivan Lafayette Early Childhood School Of The Arts (The),313,13.6,89.5%,30
+1401,Frank Sinatra School Of The Arts High School,834,16.6,40.6%,30
+1402,Ps 150,"1,090",16.0,53.8%,30
+1403,Ps 222-Fire Fighter Christopher A Santora School,283,14.1,77%,30
+1404,Information Technology High School,999,16.9,84.5%,30
+1405,Ps 234,516,14.3,82.6%,30
+1406,Baccalaureate School For Global Education,539,17.6,43.4%,30
+1407,Young Womens Leadership School - Astoria,561,16.9,85.4%,30
+1408,Academy For Careers In Television And Film,563,14.4,50.1%,30
+1409,Ps 280,686,15.2,94.6%,30
+1410,Hunters Point Community Middle School,421,12.0,52.5%,30
+1411,East Elmhurst Community School,383,14.1,93.2%,30
+1412,Energy Technical High School,512,15.0,76%,30
+1413,30th Avenue School (The) (G & T Citywide),444,18.4,26.8%,30
+1414,Woodside Community School (The),262,14.5,80.9%,30
+1415,Concord High School,166,12.9,71.7%,31
+1416,Michael J Petrides School (The),1313,15.2,47.1%,31
+1417,Curtis High School,"2,590",18.2,75.4%,31
+1418,Is 7 Elias Bernstein,"1,166",16.1,36.8%,31
+1419,Is 34 Tottenville,"1,090",14.9,34.2%,31
+1420,Is 61 William A Morris,982,13.2,82.5%,31
+1421,Is 72 Rocco Laurie,"1,407",14.3,64.5%,31
+1422,New Dorp High School,"3,046",16.8,60.1%,31
+1423,Ps 1 Tottenville,465,11.3,38.5%,31
+1424,Is 2 George L Egbert,973,15.4,71.1%,31
+1425,Ps 3 Margaret Gioiosa School (The),793,14.9,29.8%,31
+1426,Ps 4 Maurice Wollin,744,8.6,37.4%,31
+1427,Ps 5 Huguenot,300,12.5,24.7%,31
+1428,Is 51 Edwin Markham,"1,311",15.3,78.3%,31
+1429,Ps 8 Shirlee Solomon,602,16.7,35%,31
+1430,Ps 11 Thomas Dongan School,316,11.2,73.7%,31
+1431,Ps 13 M L Lindemeyer,866,14.4,64.9%,31
+1432,Ps 16 John J Driscoll,525,11.9,98.3%,31
+1433,Ps 18 John G Whittier,568,10.9,90%,31
+1434,Ps 19 Curtis School (The),594,12.9,84.5%,31
+1435,Ps 20 Port Richmond,455,10.3,96%,31
+1436,Ps 21 Margaret Emery-Elm Park,364,10.7,80.8%,31
+1437,Ps 22 Graniteville,967,14.2,87.9%,31
+1438,Ps 23 Richmondtown,562,13.3,37.2%,31
+1439,Is 24 Myra S Barnes,"1,264",12.1,43.4%,31
+1440,Ps 26 Carteret School (The),264,12.5,48.9%,31
+1441,Is 27 Anning S Prall,"1,001",16.0,73%,31
+1442,Ps 29 Bardwell,642,16.4,53%,31
+1443,Ps 30 Westerleigh,827,14.2,35.6%,31
+1444,Ps 31 William T Davis,392,10.8,90.6%,31
+1445,Ps 32 Gifford School (The),675,14.9,32.9%,31
+1446,Ps 35 Clove Valley School (The),393,17.8,38.9%,31
+1447,Ps 36 J C Drumgoole,858,14.2,34.5%,31
+1448,Ps 38 George Cromwell,375,12.0,69.9%,31
+1449,Ps 39 Francis J Murphy Junior,540,14.5,67.8%,31
+1450,Stephanie A Vierno School (The),678,13.2,67.7%,31
+1451,Ps 42 Eltingville,"1,036",15.0,36.8%,31
+1452,Ps 44 Thomas C Brown,867,11.2,94.6%,31
+1453,Ps 45 John Tyler,862,14.8,72.3%,31
+1454,Ps 46 Albert V Maniscalco,270,11.2,82.6%,31
+1455,Ps 48 William G Wilcox,982,15.8,41.3%,31
+1456,Is 49 Berta A Dreyfus,626,10.4,94.1%,31
+1457,Ps 50 Frank Hankinson,773,15.4,40.2%,31
+1458,Ps 52 John C Thompson,524,13.4,65.1%,31
+1459,Barbara Esselborn School (The),830,15.9,38.8%,31
+1460,Ps 54 Charles W Leng,808,13.6,59.9%,31
+1461,Ps 55 Henry M Boehm,602,12.8,36.9%,31
+1462,Ps 57 Hubert H Humphrey,714,13.4,86%,31
+1463,Ps 60 Alice Austen,875,14.1,58.1%,31
+1464,Ps 69 Daniel D Tompkins,936,9.2,57.5%,31
+1465,Port Richmond High School,"1,541",16.3,74%,31
+1466,Ralph R McKee Career And Technical Education High School,795,14.0,67.5%,31
+1467,Susan E Wagner High School,"3,281",20.0,55.9%,31
+1468,Tottenville High School,"3,803",19.1,35.9%,31
+1469,Ps 56 Louis Desario School (The),604,12.5,36.8%,31
+1470,Staten Island Technical High School,"1,320",21.9,42%,31
+1471,Is 75 Frank D Paulo,"1,368",12.6,38.5%,31
+1472,Ps 6 Corporal Allan F Kivlehan School,541,12.5,39.2%,31
+1473,Space Shuttle Columbia School,692,12.7,52.5%,31
+1474,Csi High School For International Studies,492,18.2,48.6%,31
+1475,Marsh Avenue School For Expeditionary Learning,459,13.5,38.6%,31
+1476,Gaynor McCown Expeditionary Learning School,439,12.5,45.6%,31
+1477,Ps 65 Academy Of Innovative Learning (The),428,13.8,60.3%,31
+1478,Staten Island School Of Civic Leadership,897,14.4,78.7%,31
+1479,Ps 74 Future Leaders Elementary School,312,10.7,91.3%,31
+1480,Ps 78,845,12.9,96%,31
+1481,Naples Street Elementary School,298,11.9,40.9%,31
+1482,Harbor View School (The),265,12.6,61.9%,31
+1483,Fort Hill Collaborative Elementary School,167,9.8,89.2%,31
+1484,Eagle Academy For Young Men Of Staten Island (The),253,11.0,84.6%,31
+1485,Kathleen Grimm School For Leadership,215,11.3,27.4%,31
+1486,Port Richmond School For Visionary Learning,153,13.9,79.1%,31
+1487,Ebc High School For Public Service-Bushwick,488,12.4,89.3%,32
+1488,Ps 376,518,15.6,87.1%,32
+1489,Junior High School 383 Philippa Schuyler,869,15.3,83.4%,32
+1490,Ps/Is 45 Horace E Greene,685,14.2,82.2%,32
+1491,Ps 75 Mayda Cortiella,363,11.0,90.9%,32
+1492,Ps 86 Irvington (The),379,11.8,98.2%,32
+1493,Ps 106 Edward Everett Hale,427,11.8,95.6%,32
+1494,Ps 116 Elizabeth L Farrell,390,10.8,89.2%,32
+1495,Ps 123 Suydam,620,11.9,96.5%,32
+1496,Ps 145 Andrew Jackson,581,13.8,91%,32
+1497,Ps 151 Lyndon B Johnson,305,11.2,94.4%,32
+1498,Junior High School 162 Willoughby (The),364,10.7,89.8%,32
+1499,Ps 274 Kosciusko,408,15.0,96.6%,32
+1500,Junior High School 291 Roland Hayes,290,10.7,95.9%,32
+1501,Ps 299 Thomas Warren Field School,270,12.2,96.3%,32
+1502,Ps 377 Alejandrina B De Gautier,315,12.1,93.3%,32
+1503,Ps/Is 384 Frances E Carter,510,14.1,87.6%,32
+1504,Is 347 School Of Humanities,311,11.9,94.5%,32
+1505,Is 349 Math Science And Technology,310,11.9,97.7%,32
+1506,All City Leadership Secondary School,435,24.1,85.7%,32
+1507,Academy Of Urban Planning And Engineering (The),202,10.6,98%,32
+1508,Brooklyn School For Social Justice (The),354,10.4,85.3%,32
+1509,Bushwick Leaders High School For Academic Excellence,280,10.3,97.1%,32
+1510,Bushwick Community High School,202,20.1,86.6%,32
+1511,Academy For Environmental Leadership,272,10.8,91.9%,32
+1512,Brooklyn School For Math And Research (The),272,12.9,90.1%,32
+1513,Evergreen Middle School For Urban Exploration,345,9.5,90.4%,32
